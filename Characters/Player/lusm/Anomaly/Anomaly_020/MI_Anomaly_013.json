@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/lusm/Anomaly/Anomaly_020/T_Anomaly_020_d.T_Anomaly_020_d",
+    "BaseColor": "HT/Content/Characters/Player/lusm/Anomaly/Anomaly_020/T_Anomaly_020_d.T_Anomaly_020_d",
+    "LightMap": "HT/Content/Characters/Player/lusm/Anomaly/Anomaly_020/T_Anomaly_020_m.T_Anomaly_020_m",
+    "T_Anomaly_020_m": "HT/Content/Characters/Player/lusm/Anomaly/Anomaly_020/T_Anomaly_020_m.T_Anomaly_020_m",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      }
+    },
+    "Scalars": {
+      "RampID": 0.0,
+      "ToonID": 3.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID4": 3.0,
+      "RampID6": 3.0,
+      "SpecSize": 0.03,
+      "SpecMetal": 0.0,
+      "SpecFlatten": 0.0,
+      "SpecIntensity": 2.0,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_Anomaly_013_outline'",
+        "ObjectPath": "HT/Content/Characters/Player/lusm/Anomaly/Anomaly_013/ter/MI_Anomaly_013_outline.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

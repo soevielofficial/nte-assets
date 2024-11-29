@@ -1,0 +1,100 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_045/ter/Anomaly_045_D.Anomaly_045_D",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_045/ter/Anomaly_045_D.Anomaly_045_D",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_045/ter/Anomaly_045_M.Anomaly_045_M",
+    "Anomaly_045_M": "HT/Content/Characters/Anomaly/Anomaly_045/ter/Anomaly_045_M.Anomaly_045_M",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "FaceMaskChannel": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "RightDir": {
+        "R": -1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "BaseColorMul": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 0.310422,
+        "B": 0.280571,
+        "A": 1.0,
+        "Hex": "FF9790"
+      },
+      "ID0_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "SmoothStepMax": 1.15,
+      "OffsetStrength": 1.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 0.0,
+      "RampID4": 3.0,
+      "RampID6": 1.0,
+      "SpecIntensity": 6.0,
+      "SpecMetalPow": 7.04,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 2.0,
+      "SpecSmooth": 0.032893,
+      "SpecSpeedX": 0.474656,
+      "SpecSpeedY": 0.5,
+      "LightNormalStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseEmissiveColor": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne_kuan'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne_kuan.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/020_haniel/ter/face/player_020_haniel_face_r.player_020_haniel_face_r",
+    "player_020_haniel_face_r": "HT/Content/Characters/Player/020_haniel/ter/face/player_020_haniel_face_r.player_020_haniel_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Player/020_haniel/ter/face/T_player_020_haniel_face_d.T_player_020_haniel_face_d",
+    "BaseColor": "HT/Content/Characters/Player/020_haniel/ter/face/T_player_020_haniel_face_d.T_player_020_haniel_face_d",
+    "LightMap": "HT/Content/Characters/Player/020_haniel/ter/face/T_player_020_haniel_face_m.T_player_020_haniel_face_m",
+    "T_player_020_haniel_face_m": "HT/Content/Characters/Player/020_haniel/ter/face/T_player_020_haniel_face_m.T_player_020_haniel_face_m",
+    "RampAltas": "HT/Content/Characters/Player/020_haniel/ter/curve/T_020_RampAtlas.T_020_RampAtlas",
+    "T_020_RampAtlas": "HT/Content/Characters/Player/020_haniel/ter/curve/T_020_RampAtlas.T_020_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "69322E"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.283791,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 0.0,
+      "RampID6": 1.0,
+      "SpecIntensity": 0.0,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "ID0_UseModifyColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'020_face'",
+        "ObjectPath": "HT/Content/Characters/Player/020_haniel/outline/020_face.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

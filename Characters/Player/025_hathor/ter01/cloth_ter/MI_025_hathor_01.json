@@ -1,0 +1,153 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/025_hathor/ter01/cloth_ter/player_025_hathor_body_01_id.player_025_hathor_body_01_id",
+    "BaseColor": "HT/Content/Characters/Player/025_hathor/ter01/cloth_ter/player_025_hathor_body_01_d.player_025_hathor_body_01_d",
+    "ID_Tex": "HT/Content/Characters/Player/025_hathor/ter01/cloth_ter/player_025_hathor_body_01_id.player_025_hathor_body_01_id",
+    "LightMap": "HT/Content/Characters/Player/025_hathor/ter01/cloth_ter/player_025_hathor_body_01_m.player_025_hathor_body_01_m",
+    "player_025_hathor_body_01_m": "HT/Content/Characters/Player/025_hathor/ter01/cloth_ter/player_025_hathor_body_01_m.player_025_hathor_body_01_m",
+    "RampAltas": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo",
+    "T_mismo": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap04": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap066.MatCap066",
+    "MatCap066": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap066.MatCap066",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m.m",
+    "m": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m.m"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.088,
+        "G": -1.108668,
+        "B": -0.699199,
+        "A": 1.0,
+        "Hex": "540000"
+      },
+      "SkinBlendColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor2": {
+        "R": 0.517976,
+        "G": 1.2,
+        "B": 0.646251,
+        "A": 1.0,
+        "Hex": "BFFFD3"
+      },
+      "ID4FresnelBaseColor": {
+        "R": 0.567708,
+        "G": 0.567708,
+        "B": 0.567708,
+        "A": 1.0,
+        "Hex": "C7C7C7"
+      },
+      "SpecColor4": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 1.2,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "Matcap2Min": 0.64,
+      "Matcap2Max": 3.0,
+      "Matcap2Int": 1.2,
+      "RampID2": 6.0,
+      "Matcap3Min": 0.798916,
+      "Matcap3Max": 2.0,
+      "Matcap3Int": 1.980479,
+      "RampID3": 8.0,
+      "Matcap4Min": 0.76685,
+      "Matcap4Max": 0.979868,
+      "Matcap4Int": 9.899207,
+      "ID4FresnelBase": -0.152,
+      "ID4FresnelPow": 1.462206,
+      "RampID4": 10.0,
+      "Matcap5Min": 0.82362,
+      "Matcap5Max": 1.185386,
+      "Matcap5Int": 2.0,
+      "RampID5": 12.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 2.981623,
+      "Matcap6Int": 1.972993,
+      "RampID6": 14.0,
+      "SpecIntensity": 1.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 2.0,
+      "SpecSmooth": 0.013697,
+      "SpecSpeedX": 0.5,
+      "SpecSpeedY": 0.5,
+      "LightNormalStrength": 0.3,
+      "MatcapNomralStrength": 0.3,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseMatcap1": false,
+      "BlendSkinFresnel": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap2": false,
+      "UseMatcap3": true,
+      "UseMatcap4": false,
+      "ID4_FresnelColor": true,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/003_sagiri/outline/cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

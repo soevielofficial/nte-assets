@@ -1,0 +1,84 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "BaseColor": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "MatCap064": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.010417,
+        "G": 0.009232,
+        "B": 0.008735,
+        "A": 1.0,
+        "Hex": "1A1817"
+      },
+      "DissolveDir": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": -1.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "DissolvePos": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Translucent": 0.941034,
+      "DissolveHardNess": 0.01,
+      "NoiseScale": 0.5,
+      "UseDirDissolveDir": 0.0,
+      "FixExposure": 0.5,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 1.0,
+      "Matcap1Min": 0.002245,
+      "Matcap1Max": 3.134091,
+      "Matcap1Int": 0.472852,
+      "SpecIntensity": 50.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.886246,
+      "SpecPow": 128.0,
+      "SpecSmooth": 0.0001,
+      "SpecSpeedX": 0.95644,
+      "SpecSpeedY": 0.066233,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "InvisableSkillOpacity": 1.0,
+      "OpacityMaskVal": 1.0,
+      "PlayerInvisable": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatcap0": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

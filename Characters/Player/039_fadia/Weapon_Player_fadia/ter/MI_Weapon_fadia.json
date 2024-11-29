@@ -1,0 +1,125 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_id.weapon_fadia_039_id",
+    "BaseColor": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_d.weapon_fadia_039_d",
+    "ID_Tex": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_id.weapon_fadia_039_id",
+    "LightMap": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_m.weapon_fadia_039_m",
+    "weapon_fadia_039_m": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_m.weapon_fadia_039_m",
+    "RampAltas": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039",
+    "T_ramp_039": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/T_Matcap_Color.T_Matcap_Color",
+    "T_Matcap_Color": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/T_Matcap_Color.T_Matcap_Color",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_6.MatCap065_6",
+    "MatCap065_6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_6.MatCap065_6",
+    "PM_SpecularMasks": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_n.weapon_fadia_039_n",
+    "NomralMap": "HT/Content/Characters/Player/039_fadia/Weapon_Player_fadia/ter/weapon_fadia_039_n.weapon_fadia_039_n"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 0.973445,
+        "G": 0.790924,
+        "B": 0.82736,
+        "A": 1.0,
+        "Hex": "FCE6EB"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 0.348958,
+        "G": 0.0,
+        "B": 0.045898,
+        "A": 1.0,
+        "Hex": "A0003C"
+      }
+    },
+    "Scalars": {
+      "FixExposure": 0.4096,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 1.2,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 0.0,
+      "SkinBlendBase": -2.576,
+      "SkinBlendExp": 0.18,
+      "Matcap2Min": 8.661006,
+      "Matcap2Max": 0.137663,
+      "Matcap2Int": 1.807267,
+      "RampID2": 6.0,
+      "Matcap3Min": 1.0,
+      "Matcap3Max": 3.0,
+      "Matcap3Int": 0.5,
+      "RampID3": 7.0,
+      "Matcap4Min": 0.8,
+      "Matcap4Max": 1.8,
+      "Matcap4Int": 1.0,
+      "RampID4": 0.0,
+      "Matcap5Min": 2.167132,
+      "Matcap5Max": 10.128026,
+      "Matcap5Int": 2.0,
+      "RampID5": 18.0,
+      "Matcap6Min": 0.444,
+      "Matcap6Max": 4.028729,
+      "Matcap6Int": 0.747525,
+      "RampID6": 0.0,
+      "SpecIntensity": 10.0,
+      "SpecPow": 5.0,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "EmissiveIntensity": 100.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatcap1": false,
+      "BlendSkinFresnel": false,
+      "UseMatcap2": false,
+      "UseMatcap3": false,
+      "UseMatcap4": false,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'hair'",
+        "ObjectPath": "HT/Content/Characters/Player/008_Skia/outline/hair.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

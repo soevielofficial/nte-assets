@@ -1,0 +1,70 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_D.T_Anomaly_006_D",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_D.T_Anomaly_006_D",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_M.T_Anomaly_006_M",
+    "T_Anomaly_006_M": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_M.T_Anomaly_006_M",
+    "RampAltas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas",
+    "T_Character006_RampAtlas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "CloudFresnelColorMul": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ShadowNoiseMoveSpeed": {
+        "R": 0.0,
+        "G": -0.2,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "0000FF"
+      },
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "CloudFresnelPow": 0.5,
+      "ShadowNoiseOffset": 0.2,
+      "ShadowNoiseScale": 0.0,
+      "ShadowNoiseTilling": 1.5,
+      "VertexMove": 2.244878,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 1.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne_weiba'",
+        "ObjectPath": "HT/Content/Characters/Anomaly/Anomaly_006/ter/outline/common_outlinne_weiba.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

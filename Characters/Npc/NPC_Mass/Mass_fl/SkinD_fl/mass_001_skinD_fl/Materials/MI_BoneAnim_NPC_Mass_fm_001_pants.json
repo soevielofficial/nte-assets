@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "BonePositionTexture": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BonePosition.T_mass_001_skinD_fl_BonePosition",
+    "T_mass_001_skinD_fl_BonePosition": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BonePosition.T_mass_001_skinD_fl_BonePosition",
+    "BoneRotationTexture": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BoneRotation.T_mass_001_skinD_fl_BoneRotation",
+    "T_mass_001_skinD_fl_BoneRotation": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BoneRotation.T_mass_001_skinD_fl_BoneRotation",
+    "BoneWeightsTexture": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BoneWeight.T_mass_001_skinD_fl_BoneWeight",
+    "T_mass_001_skinD_fl_BoneWeight": "HT/Content/Characters/Npc/NPC_Mass/Mass_fl/SkinD_fl/mass_001_skinD_fl/Textures/T_mass_001_skinD_fl_BoneWeight.T_mass_001_skinD_fl_BoneWeight"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "MinBBox": {
+        "R": -68.708496,
+        "G": -76.177185,
+        "B": -20.9915,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "SizeBBox": {
+        "R": 122.859085,
+        "G": 122.92302,
+        "B": 189.52206,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "NumBones": 128.0,
+      "RowsPerFrame": 1.0,
+      "BoneWeightsRowsPerFrame": 1.0,
+      "StartFrame": 0.0,
+      "EndFrame": 60.0,
+      "NumFrames": 447.0,
+      "SampleRate": 30.0
+    },
+    "Switches": {
+      "UseBoneAnimation": true,
+      "Animate": true,
+      "UseFourInfluences": true,
+      "UseTwoInfluences": false,
+      "UseUV0": false,
+      "UseUV1": true,
+      "UseUV2": false,
+      "UseUV3": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

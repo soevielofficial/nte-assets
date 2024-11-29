@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "boss_06_Face_a": "HT/Content/Characters/Monster/Boss_06/ter/boss_06_Face_a.boss_06_Face_a",
+    "boss_06_Face": "HT/Content/Characters/Monster/Boss_06/ter/boss_06_Face.boss_06_Face",
+    "DefaultDiffuse": "Engine/Content/EngineMaterials/DefaultDiffuse.DefaultDiffuse",
+    "DebugNumberStrip": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip",
+    "DebugNumberPeriod": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod",
+    "flipbook": "Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook",
+    "PM_Diffuse": "Engine/Content/EngineMaterials/DefaultDiffuse.DefaultDiffuse"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "ShadingModels": {
+        "ShadingModelField": 8192
+      },
+      "bUsedWithSkeletalMesh": true,
+      "StateId": "861A1EC2-465F6554-1546CFAB-F972243A",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

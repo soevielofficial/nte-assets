@@ -1,0 +1,97 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_r.T_player_039_fadia_face_r",
+    "T_player_039_fadia_face_r": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_r.T_player_039_fadia_face_r",
+    "FaceMarkOverlay": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_facemark.T_player_039_fadia_facemark",
+    "T_player_039_fadia_facemark": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_facemark.T_player_039_fadia_facemark",
+    "PM_Diffuse": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_d.T_player_039_fadia_face_d",
+    "BaseColor": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_d.T_player_039_fadia_face_d",
+    "LightMap": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_m.T_player_039_fadia_face_m",
+    "T_player_039_fadia_face_m": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_face_m.T_player_039_fadia_face_m",
+    "RampAltas": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039",
+    "T_ramp_039": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Dissolve_FresnelColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "69322E"
+      }
+    },
+    "Scalars": {
+      "Dissolve_UVs": 0.072,
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "FaceMark": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 22.0,
+      "RimLight": 0.15,
+      "RampID1": 2.0,
+      "RampID4": 22.0,
+      "RampID6": 20.0,
+      "SpecIntensity": 0.84,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseFaceMark": true,
+      "UseNightRamp": true,
+      "ID0_UseModifyColor": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'outline_039_face'",
+        "ObjectPath": "HT/Content/Characters/Player/039_fadia/ter/outline/outline_039_face.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

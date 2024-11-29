@@ -1,0 +1,34 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_D.T_Vehicle_000_04_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_D.T_Vehicle_000_04_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_N.T_Vehicle_000_04_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_N.T_Vehicle_000_04_N",
+    "PM_SpecularMasks": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_MRA.T_Vehicle_000_04_MRA",
+    "MRA": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_04_MRA.T_Vehicle_000_04_MRA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

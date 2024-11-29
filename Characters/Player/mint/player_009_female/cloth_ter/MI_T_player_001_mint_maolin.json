@@ -1,0 +1,139 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "BaseColor": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "ID_Tex": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "LightMap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "BaseMatcap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/T_Matcap_Color.T_Matcap_Color",
+    "T_Matcap_Color": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/T_Matcap_Color.T_Matcap_Color",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/T_Matcap_Color.T_Matcap_Color",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "RampTexture": "Engine/Content/EngineMaterials/Engine_Character_RampAtlas.Engine_Character_RampAtlas",
+    "Engine_Character_RampAtlas": "Engine/Content/EngineMaterials/Engine_Character_RampAtlas.Engine_Character_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.395833,
+        "G": 0.395833,
+        "B": 0.395833,
+        "A": 1.0,
+        "Hex": "A9A9A9"
+      },
+      "ShadowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": -1.724473,
+        "B": -0.014657,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "SkinBlendColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_BaseColor": {
+        "R": 0.9375,
+        "G": 0.620684,
+        "B": 0.43457,
+        "A": 1.0,
+        "Hex": "F8CFB0"
+      },
+      "ID0_ShadowColor": {
+        "R": 0.973958,
+        "G": 0.603651,
+        "B": 0.654727,
+        "A": 1.0,
+        "Hex": "FDCCD4"
+      }
+    },
+    "Scalars": {
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "BaseMatcapMin": 1.0,
+      "BaseMatcapMax": 1.0,
+      "BaseMatcapInt": 0.0,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "Matcap2Min": 1.0,
+      "Matcap2Max": 3.0,
+      "Matcap2Int": 0.2,
+      "RampID2": 3.0,
+      "Matcap3Min": 0.671085,
+      "Matcap3Max": 3.11225,
+      "Matcap3Int": 0.649145,
+      "RampID3": 2.0,
+      "Matcap4Min": -0.2,
+      "Matcap4Max": 1.0,
+      "Matcap4Int": 2.0,
+      "RampID4": 0.0,
+      "Matcap5Min": 0.0,
+      "Matcap5Max": 3.0,
+      "Matcap5Int": 2.0,
+      "RampID5": 3.0,
+      "Matcap6Min": 1.299423,
+      "Matcap6Max": 26.586185,
+      "Matcap6Int": 0.643423,
+      "RampID6": 4.0,
+      "SpecSize": 0.208,
+      "SpecIntensity": 0.0,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 0.912,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatcap1": false,
+      "BlendSkinFresnel": true,
+      "BlendSilk": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap3": false,
+      "UseMatcap4": false,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_001_mint_OutLine_hair'",
+        "ObjectPath": "HT/Content/Characters/Player/mint/player_001_mint/hair_ter/001_outline/MI_player_001_mint_OutLine_hair.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

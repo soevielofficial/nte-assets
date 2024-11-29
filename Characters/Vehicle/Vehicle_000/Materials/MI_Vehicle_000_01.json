@@ -1,0 +1,61 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Environment/Building/DLC_Structures/NeverNess/Textures/T_base_white_d.T_base_white_d",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_01_D.T_Vehicle_000_01_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_01_N.T_Vehicle_000_01_N",
+    "NormalMap": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_01_N.T_Vehicle_000_01_N",
+    "ColorIDTexture": "HT/Content/Environment/Building/DLC_Structures/NeverNess/Textures/T_base_white_d.T_base_white_d",
+    "T_base_white_d": "HT/Content/Environment/Building/DLC_Structures/NeverNess/Textures/T_base_white_d.T_base_white_d",
+    "MatCap": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/xiaz/213231pey2zrui76dgg3ph.213231pey2zrui76dgg3ph",
+    "213231pey2zrui76dgg3ph": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/xiaz/213231pey2zrui76dgg3ph.213231pey2zrui76dgg3ph"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 4,
+    "Colors": {
+      "Flake Color Alpha": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Clear Coat Top Roughness": 0.262147,
+      "NormalIntensity": 1.0,
+      "Flake Color Power": 5.0,
+      "Flake Color Variation": 0.0,
+      "Sparkle Colors Scale": 64.0,
+      "Final Flake Brightness": 1.0,
+      "Flake Distribution": 26.383778,
+      "Max Bottom Roughness": 0.433811,
+      "Min Bottom Roughness": 0.798867,
+      "1st Flake Intensity": 1.0,
+      "Flake Normal Scale": 16.0,
+      "Flake Normal Strength": 0.0,
+      "Flake Scale": 4.0,
+      "MatCapPower": 0.958781,
+      "Car Paint Metallic": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatCap": true,
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

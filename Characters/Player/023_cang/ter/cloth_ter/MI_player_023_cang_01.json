@@ -1,0 +1,186 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/023_cang/ter/cloth_ter/T_player_023_cang_01_id.T_player_023_cang_01_id",
+    "BaseColor": "HT/Content/Characters/Player/023_cang/ter/cloth_ter/T_player_023_cang_01_d.T_player_023_cang_01_d",
+    "ID_Tex": "HT/Content/Characters/Player/023_cang/ter/cloth_ter/T_player_023_cang_01_id.T_player_023_cang_01_id",
+    "LightMap": "HT/Content/Characters/Player/023_cang/ter/cloth_ter/T_player_023_cang_01_m.T_player_023_cang_01_m",
+    "T_player_023_cang_01_m": "HT/Content/Characters/Player/023_cang/ter/cloth_ter/T_player_023_cang_01_m.T_player_023_cang_01_m",
+    "RampAltas": "HT/Content/Characters/Player/023_cang/ter/curve/T_cang.T_cang",
+    "T_cang": "HT/Content/Characters/Player/023_cang/ter/curve/T_cang.T_cang",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap04": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "MatCap064": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/M2_2.M2_2",
+    "M2_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/M2_2.M2_2",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SkilColor1": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "SkilColor2": {
+        "R": 1.0,
+        "G": 0.984375,
+        "B": 0.984375,
+        "A": 1.0,
+        "Hex": "FFFEFE"
+      },
+      "SkilHighLightColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor2": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "LocalShadowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "LocalSunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "CharaterMipBias": -4.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.5,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 0.341932,
+      "Matcap1Max": -0.891914,
+      "Matcap1Int": 0.0,
+      "RampID1": 2.0,
+      "RampID1_Silk": 0.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "SilkColorMin": 0.5,
+      "SilkColoeMax": 1.0,
+      "SilkColorPower": 1.0,
+      "SkilHighLightMin": 0.0,
+      "SkilHighLightMax": 1.0,
+      "SkilHighLightInt": 0.2,
+      "HighLightNoiseScale": 30.0,
+      "SkilMaskBias": 0.0,
+      "SkilMaskHardness": -0.5,
+      "Matcap2Min": 0.5,
+      "Matcap2Max": 3.0,
+      "Matcap2Int": 2.0,
+      "RampID2": 6.0,
+      "Matcap3Min": 1.47243,
+      "Matcap3Max": 0.48,
+      "Matcap3Int": -0.2,
+      "RampID3": 8.0,
+      "Matcap4Min": 0.1,
+      "Matcap4Max": 2.0,
+      "Matcap4Int": 3.0,
+      "RampID4": 6.0,
+      "Matcap5Min": 0.566032,
+      "Matcap5Max": 31.961304,
+      "Matcap5Int": 1.200404,
+      "RampID5": 0.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 20.0,
+      "Matcap6Int": 0.7,
+      "RampID6": 0.0,
+      "SpecIntensity": 2.0,
+      "SpecMetalPow": 5.0,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 3.0,
+      "SpecSmooth": 0.2,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseMatcap1": false,
+      "BlendSkinFresnel": true,
+      "ID0_UseModifyColor": true,
+      "UseSilkHighLight": false,
+      "UseLocalReflection": true,
+      "UseMatcap2": false,
+      "UseMatcap3": false,
+      "UseMatcap4": true,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'cang_cloth_out'",
+        "ObjectPath": "HT/Content/Characters/Player/023_cang/ter/outline/cang_cloth_out.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

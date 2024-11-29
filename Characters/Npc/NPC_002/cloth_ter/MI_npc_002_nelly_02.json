@@ -1,0 +1,162 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_id.T_npc_002_nelly_02_id",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_d.T_npc_002_nelly_02_d",
+    "ID_Tex": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_id.T_npc_002_nelly_02_id",
+    "LightMap": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_m.T_npc_002_nelly_02_m",
+    "T_npc_002_nelly_02_m": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_m.T_npc_002_nelly_02_m",
+    "RampAltas": "HT/Content/Characters/Npc/NPC_002/curve/T_NPC_002_Curve.T_NPC_002_Curve",
+    "T_NPC_002_Curve": "HT/Content/Characters/Npc/NPC_002/curve/T_NPC_002_Curve.T_NPC_002_Curve",
+    "SkilMask": "HT/Content/Characters/Npc/NPC_002/cloth_ter/mask.mask",
+    "mask": "HT/Content/Characters/Npc/NPC_002/cloth_ter/mask.mask",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02.Matcap02",
+    "Matcap02": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02.Matcap02",
+    "Matcap5": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_1.MatCap065_1",
+    "MatCap065_1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_1.MatCap065_1",
+    "PM_SpecularMasks": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_n.T_npc_002_nelly_02_n",
+    "NomralMap": "HT/Content/Characters/Npc/NPC_002/cloth_ter/T_npc_002_nelly_02_n.T_npc_002_nelly_02_n"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SkinBlendColor": {
+        "R": 0.989583,
+        "G": 0.664876,
+        "B": 0.732679,
+        "A": 1.0,
+        "Hex": "FED5DF"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SkilColor1": {
+        "R": 0.25963,
+        "G": 0.226427,
+        "B": 0.260417,
+        "A": 1.0,
+        "Hex": "8B838C"
+      },
+      "SkilColor2": {
+        "R": 0.598958,
+        "G": 0.430501,
+        "B": 0.455531,
+        "A": 1.0,
+        "Hex": "CCB0B4"
+      },
+      "SkilHighLightColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.5,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 0.0,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": 0.0,
+      "RampID1": 2.0,
+      "RampID1_Silk": 4.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "SilkColorMin": -0.8,
+      "SilkColoeMax": 0.03,
+      "SilkColorPower": 1.1,
+      "SkilHighLightMin": 0.0,
+      "SkilHighLightMax": 1.369674,
+      "SkilHighLightInt": 0.1,
+      "HighLightNoiseScale": 31.098776,
+      "SkilMaskBias": 0.0,
+      "SkilMaskHardness": -0.5,
+      "Matcap2Min": 1.3,
+      "Matcap2Max": 1.0,
+      "Matcap2Int": 0.0,
+      "RampID2": 4.0,
+      "Matcap3Min": 0.5,
+      "Matcap3Max": 2.0,
+      "Matcap3Int": 1.0,
+      "RampID3": 2.0,
+      "Matcap4Min": 0.68,
+      "Matcap4Max": 1.198045,
+      "Matcap4Int": 0.316595,
+      "RampID4": 3.0,
+      "Matcap5Min": 1.0,
+      "Matcap5Max": 1.0,
+      "Matcap5Int": 0.0,
+      "RampID5": 2.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 3.224164,
+      "Matcap6Int": 0.770426,
+      "RampID6": 2.0,
+      "SpecIntensity": 0.01,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "SkinShadowID": 1.0,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "BlendSkinFresnel": true,
+      "BlendSilk": true,
+      "ID0_UseModifyColor": true,
+      "UseSilkHighLight": true,
+      "UseLocalReflection": true,
+      "UseSilkMask": true,
+      "UseMatcap2": true,
+      "UseMatcap3": true,
+      "UseMatcap4": true,
+      "UseMatcap5": true,
+      "UseMatcap6": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_001_mint_OutLine'",
+        "ObjectPath": "HT/Content/Characters/Npc/NPC_002/cloth_ter/MI_player_001_mint_OutLine.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

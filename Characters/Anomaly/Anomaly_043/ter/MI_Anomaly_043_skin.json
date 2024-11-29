@@ -1,0 +1,88 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_043/ter/T_Anomaly_043_02_d.T_Anomaly_043_02_d",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_043/ter/T_Anomaly_043_02_d.T_Anomaly_043_02_d",
+    "CharaterToneLut": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "Character_TonemapAtlas": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_043/ter/T_Anomaly_043_02_m.T_Anomaly_043_02_m",
+    "T_Anomaly_043_02_m": "HT/Content/Characters/Anomaly/Anomaly_043/ter/T_Anomaly_043_02_m.T_Anomaly_043_02_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "BaseColorMul": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "ShadowOffsetRange": 1.2,
+      "RampID1": 5.0,
+      "RampID4": 0.0,
+      "RampID6": 1.0,
+      "SpecIntensity": 5.0,
+      "SpecMetalPow": 6.0,
+      "SpecMetalRange": 0.604234,
+      "SpecPow": 2.0,
+      "SpecSmooth": 0.02,
+      "SpecSpeedX": 0.5,
+      "SpecSpeedY": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "NaniteOverrideMaterial": {
+        "OverrideMaterialRef": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "bEnableOverride": false,
+        "OverrideMaterial": null
+      },
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'Anomaly_043_outline'",
+        "ObjectPath": "HT/Content/Characters/Anomaly/Anomaly_043/ter/Anomaly_043_outline.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

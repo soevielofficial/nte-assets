@@ -1,0 +1,77 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_024/ter/T_Anomaly_024_d.T_Anomaly_024_d",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_024/ter/T_Anomaly_024_d.T_Anomaly_024_d",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_024/ter/T_Anomaly_024_m.T_Anomaly_024_m",
+    "T_Anomaly_024_m": "HT/Content/Characters/Anomaly/Anomaly_024/ter/T_Anomaly_024_m.T_Anomaly_024_m",
+    "PM_SpecularMasks": "HT/Content/Characters/Anomaly/normal/T_Fabric_WoolKnitTight_N.T_Fabric_WoolKnitTight_N",
+    "NomralMap": "HT/Content/Characters/Anomaly/normal/T_Fabric_WoolKnitTight_N.T_Fabric_WoolKnitTight_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "FurFresnelCenter": {
+        "R": 0.7,
+        "G": 0.7,
+        "B": 0.7,
+        "A": 1.0,
+        "Hex": "DADADA"
+      },
+      "FurFresnelSide": {
+        "R": 1.0,
+        "G": 0.87843,
+        "B": 0.859375,
+        "A": 1.0,
+        "Hex": "FFF1EF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      }
+    },
+    "Scalars": {
+      "FurFresnelPow": 2.0,
+      "RampID": 2.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID4": 6.0,
+      "RampID6": 3.0,
+      "SpecIntensity": 2.0,
+      "LightNormalStrength": 0.7,
+      "MatcapNomralStrength": 2.0,
+      "NormalTilling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

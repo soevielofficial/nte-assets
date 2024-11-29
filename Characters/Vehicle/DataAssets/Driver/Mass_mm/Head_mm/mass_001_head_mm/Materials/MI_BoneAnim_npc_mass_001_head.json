@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "BonePositionTexture": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BonePosition.T_mass_001_head_mm_BonePosition",
+    "T_mass_001_head_mm_BonePosition": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BonePosition.T_mass_001_head_mm_BonePosition",
+    "BoneRotationTexture": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BoneRotation.T_mass_001_head_mm_BoneRotation",
+    "T_mass_001_head_mm_BoneRotation": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BoneRotation.T_mass_001_head_mm_BoneRotation",
+    "BoneWeightsTexture": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BoneWeight.T_mass_001_head_mm_BoneWeight",
+    "T_mass_001_head_mm_BoneWeight": "HT/Content/Characters/Vehicle/DataAssets/Driver/Mass_mm/Head_mm/mass_001_head_mm/Textures/T_mass_001_head_mm_BoneWeight.T_mass_001_head_mm_BoneWeight"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "MinBBox": {
+        "R": -59.871365,
+        "G": -27.412376,
+        "B": -52.961067,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "SizeBBox": {
+        "R": 144.98769,
+        "G": 107.16698,
+        "B": 213.60489,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "NumBones": 89.0,
+      "RowsPerFrame": 1.0,
+      "BoneWeightsRowsPerFrame": 1.0,
+      "StartFrame": 0.0,
+      "EndFrame": 10.0,
+      "NumFrames": 55.0,
+      "SampleRate": 30.0
+    },
+    "Switches": {
+      "UseBoneAnimation": true,
+      "Animate": true,
+      "UseFourInfluences": true,
+      "UseTwoInfluences": false,
+      "UseUV0": false,
+      "UseUV1": true,
+      "UseUV2": false,
+      "UseUV3": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/030_iskra/ter/cloth_ter/T_player_030_iskra_01_d.T_player_030_iskra_01_d",
+    "BaseColor": "HT/Content/Characters/Player/030_iskra/ter/cloth_ter/T_player_030_iskra_01_d.T_player_030_iskra_01_d",
+    "LightMap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Translucent": 10.189292,
+      "TranslucentCenter": 0.849272,
+      "TranslucentFresnelPow": 3.370501,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseFresnelTranslucent": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

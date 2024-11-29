@@ -1,0 +1,83 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_d.T_Anomaly_031_03_d",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_d.T_Anomaly_031_03_d",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_m.T_Anomaly_031_03_m",
+    "T_Anomaly_031_03_m": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_m.T_Anomaly_031_03_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "MatCap064": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "DissolveDir": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "DissolvePos": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "Translucent": 1.0,
+      "DissolveHardNess": 0.01,
+      "NoiseScale": 0.5,
+      "UseDirDissolveDir": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 0.8,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": 5.0,
+      "SpecIntensity": 50.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.886246,
+      "SpecPow": 128.0,
+      "SpecSmooth": 0.0001,
+      "SpecSpeedX": 0.95644,
+      "SpecSpeedY": 0.066233,
+      "InvisableSkillOpacity": 1.0,
+      "OpacityMaskVal": 1.0,
+      "PlayerInvisable": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatcap0": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

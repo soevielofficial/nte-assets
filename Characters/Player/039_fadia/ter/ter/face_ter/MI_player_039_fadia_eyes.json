@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_eyes_d.T_player_039_fadia_eyes_d",
+    "BaseColor": "HT/Content/Characters/Player/039_fadia/ter/ter/face_ter/T_player_039_fadia_eyes_d.T_player_039_fadia_eyes_d",
+    "LightMap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "RampAltas": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039",
+    "T_ramp_039": "HT/Content/Characters/Player/039_fadia/ter/Curve/T_ramp_039.T_ramp_039",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.088,
+        "G": -1.108668,
+        "B": -0.699199,
+        "A": 1.0,
+        "Hex": "540000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 24.0,
+      "ShadowOffsetRange": 0.564,
+      "SpecIntensity": 0.0,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333,
+        "EmbroideryStencilOp": "EMaterialEmbroideryStencilOp::MESO_Set"
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

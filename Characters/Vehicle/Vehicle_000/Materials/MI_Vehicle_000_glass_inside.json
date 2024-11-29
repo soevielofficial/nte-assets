@@ -1,0 +1,48 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "BaseColor": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 0.161458,
+        "G": 0.161458,
+        "B": 0.161458,
+        "A": 1.0,
+        "Hex": "707070"
+      },
+      "BaseColor": {
+        "R": 0.4,
+        "G": 0.4,
+        "B": 0.4,
+        "A": 1.0,
+        "Hex": "AAAAAA"
+      }
+    },
+    "Scalars": {
+      "Opacity": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Glass'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_Glass.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

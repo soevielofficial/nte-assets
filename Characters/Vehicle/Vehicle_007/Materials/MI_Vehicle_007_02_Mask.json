@@ -1,0 +1,60 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_D.T_Vehicle_007_02_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_D.T_Vehicle_007_02_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_N.T_Vehicle_007_02_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_N.T_Vehicle_007_02_N",
+    "PM_SpecularMasks": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_MRA.T_Vehicle_007_02_MRA",
+    "MRA": "HT/Content/Characters/Vehicle/Vehicle_007/Materials/T_Vehicle_007_02_MRA.T_Vehicle_007_02_MRA"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint_Day": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Tint_Night": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_HollowMetal'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_HollowMetal.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

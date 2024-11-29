@@ -1,0 +1,59 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Monster/mon_08/ter/T_mon_08_d.T_mon_08_d",
+    "BaseColor": "HT/Content/Characters/Monster/mon_08/ter/T_mon_08_d.T_mon_08_d",
+    "LightMap": "HT/Content/Characters/Monster/mon_08/ter/T_mon_08_m.T_mon_08_m",
+    "T_mon_08_m": "HT/Content/Characters/Monster/mon_08/ter/T_mon_08_m.T_mon_08_m",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.778909,
+        "G": 0.840078,
+        "B": 0.895833,
+        "A": 1.0,
+        "Hex": "E5EDF3"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": -1.742104,
+        "B": -0.552851,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "RampID": 1.0,
+      "ToonID": 2.0,
+      "ShadowOffsetRange": 1.0,
+      "SpecIntensity": 0.2,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_023/ter/Anomaly_023_d3.Anomaly_023_d3",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_023/ter/Anomaly_023_d3.Anomaly_023_d3",
+    "CharaterToneLut": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "Character_TonemapAtlas": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_023/ter/Anomaly_023_m.Anomaly_023_m",
+    "Anomaly_023_m": "HT/Content/Characters/Anomaly/Anomaly_023/ter/Anomaly_023_m.Anomaly_023_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "BaseColorMul": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RampID1": 2.0,
+      "RampID4": 0.0,
+      "RampID6": 1.0,
+      "SpecIntensity": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_OutLine_XL'",
+        "ObjectPath": "HT/Content/CoreMaterials/Character/ToonMaterial/Outline/MI_OutLine_XL.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

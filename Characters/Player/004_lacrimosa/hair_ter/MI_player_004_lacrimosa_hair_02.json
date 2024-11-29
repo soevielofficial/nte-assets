@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/004_lacrimosa/hair_ter/T_player_004_lacrimosa_hair_02_d.T_player_004_lacrimosa_hair_02_d",
+    "BaseColor": "HT/Content/Characters/Player/004_lacrimosa/hair_ter/T_player_004_lacrimosa_hair_02_d.T_player_004_lacrimosa_hair_02_d",
+    "LightMap": "HT/Content/Characters/Player/004_lacrimosa/hair_ter/T_player_004_lacrimosa_hair_02_m.T_player_004_lacrimosa_hair_02_m",
+    "T_player_004_lacrimosa_hair_02_m": "HT/Content/Characters/Player/004_lacrimosa/hair_ter/T_player_004_lacrimosa_hair_02_m.T_player_004_lacrimosa_hair_02_m",
+    "RampAltas": "HT/Content/Characters/Player/004_lacrimosa/Curve_new/T_lacrimosa.T_lacrimosa",
+    "T_lacrimosa": "HT/Content/Characters/Player/004_lacrimosa/Curve_new/T_lacrimosa.T_lacrimosa"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.3,
+      "ShadowOffsetRange": 0.5,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.18,
+      "BlendDistance": 0.895238,
+      "ShadowID": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_004_hair'",
+        "ObjectPath": "HT/Content/Characters/Player/004_lacrimosa/outline/MI_004_hair.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

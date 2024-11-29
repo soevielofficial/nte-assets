@@ -1,0 +1,154 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_id.T_player_020_haniel_body2_id",
+    "BaseColor": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_d.T_player_020_haniel_body2_d",
+    "ID_Tex": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_id.T_player_020_haniel_body2_id",
+    "LightMap": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_m.T_player_020_haniel_body2_m",
+    "T_player_020_haniel_body2_m": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_m.T_player_020_haniel_body2_m",
+    "RampAltas": "HT/Content/Characters/Player/020_haniel/ter/curve/T_020_RampAtlas.T_020_RampAtlas",
+    "T_020_RampAtlas": "HT/Content/Characters/Player/020_haniel/ter/curve/T_020_RampAtlas.T_020_RampAtlas",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap10.Matcap10",
+    "Matcap10": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap10.Matcap10",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/M2_2.M2_2",
+    "M2_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/M2_2.M2_2",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap03.Matcap03",
+    "Matcap03": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap03.Matcap03",
+    "PM_SpecularMasks": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_n.T_player_020_haniel_body2_n",
+    "NomralMap": "HT/Content/Characters/Player/020_haniel/ter/cloth/T_player_020_haniel_body2_n.T_player_020_haniel_body2_n"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 0.960938,
+        "G": 0.833313,
+        "B": 0.866079,
+        "A": 1.0,
+        "Hex": "FBECF0"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor3": {
+        "R": 2.0,
+        "G": 2.0,
+        "B": 2.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor5": {
+        "R": 1.112879,
+        "G": 0.927041,
+        "B": 4.5,
+        "A": 1.0,
+        "Hex": "FFF7FF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.5,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "Matcap2Min": 0.5,
+      "Matcap2Max": 3.467767,
+      "Matcap2Int": 2.092658,
+      "RampID2": 6.0,
+      "Matcap3Min": 0.0,
+      "Matcap3Max": 1.0,
+      "Matcap3Int": 0.0,
+      "RampID3": 8.0,
+      "Matcap4Min": 0.76685,
+      "Matcap4Max": 0.979868,
+      "Matcap4Int": 9.899207,
+      "RampID4": 10.0,
+      "Matcap5Min": 0.0,
+      "Matcap5Max": 9.568815,
+      "Matcap5Int": 2.961814,
+      "RampID5": 12.0,
+      "Matcap6Min": 1.104385,
+      "Matcap6Max": 1.618701,
+      "Matcap6Int": 0.0,
+      "RampID6": 16.0,
+      "LightdirZMul": 0.5,
+      "SpecIntensity": 1.0,
+      "SpecMetalPow": 6.0,
+      "SpecMetalRange": 0.0,
+      "SpecPow": 20.144,
+      "SpecSmooth": 0.0001,
+      "SpecSpeedX": 0.400208,
+      "SpecSpeedY": 0.481784,
+      "LightNormalStrength": 0.15,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.05,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "BlendSkinFresnel": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap2": true,
+      "UseMatcap3": false,
+      "UseMatcap4": false,
+      "UseMatcap5": false,
+      "UseMatcap6": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'020_cloth_2'",
+        "ObjectPath": "HT/Content/Characters/Player/020_haniel/outline/020_cloth_2.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

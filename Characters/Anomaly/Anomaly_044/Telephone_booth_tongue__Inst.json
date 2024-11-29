@@ -1,0 +1,100 @@
+{
+  "Textures": {
+    "Detail": "HT/Content/FX/Tex/zt_tex/T_Noise005.T_Noise005",
+    "T_Noise005": "HT/Content/FX/Tex/zt_tex/T_Noise005.T_Noise005",
+    "Main": "HT/Content/FX_CD/Tex/Noise/T_Noise_027.T_Noise_027",
+    "T_Noise_027": "HT/Content/FX_CD/Tex/Noise/T_Noise_027.T_Noise_027",
+    "Main Noise": "HT/Content/FX/Tex/zt_tex/T_Noise002.T_Noise002",
+    "T_Noise002": "HT/Content/FX/Tex/zt_tex/T_Noise002.T_Noise002",
+    "PM_Normals": "HT/Content/FX/Tex/zt_tex/T_Noise002.T_Noise002",
+    "Normal": "HT/Content/FX/Tex/zt_tex/T_Noise002.T_Noise002"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Detail SV": {
+        "R": 0.352,
+        "G": 0.079808,
+        "B": 0.25,
+        "A": 0.1,
+        "Hex": "19A05089"
+      },
+      "Main Color": {
+        "R": 1.0,
+        "G": 0.031819,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF3200"
+      },
+      "Main SV": {
+        "R": 0.592,
+        "G": 0.436033,
+        "B": 0.2,
+        "A": 0.1,
+        "Hex": "19CBB17C"
+      },
+      "Main Refine": {
+        "R": 2.0,
+        "G": 6.0,
+        "B": 1.0,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "Main Noise SV": {
+        "R": 0.3,
+        "G": 0.455002,
+        "B": 0.2,
+        "A": -0.05,
+        "Hex": "95B47C"
+      },
+      "Ramp Control": {
+        "R": 0.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "00FFFF"
+      },
+      "Fresnel  Color": {
+        "R": 4.0,
+        "G": 0.066667,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF4900"
+      },
+      "Norml SV": {
+        "R": 0.704,
+        "G": 0.448,
+        "B": 0.25,
+        "A": 0.05,
+        "Hex": "0CDBB389"
+      }
+    },
+    "Scalars": {
+      "Reflction": 0.12,
+      "ReflctionBlur": 3.0,
+      "Destration": 0.0,
+      "HUE": 1.122716,
+      "Main Noise Strenth": 0.356,
+      "Fresnel Color Power": 7.0,
+      "Fresnel Opacity Power": 0.01,
+      "Normal Strength": -0.510606,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

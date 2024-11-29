@@ -1,0 +1,32 @@
+{
+  "Textures": {
+    "DefaultTexture": "Engine/Content/EngineResources/DefaultTexture.DefaultTexture",
+    "T_Smoke_011": "HT/Content/FX/Tex/Smoke/T_Smoke_011.T_Smoke_011",
+    "T_Noise006": "HT/Content/FX/Tex/zt_tex/T_Noise006.T_Noise006",
+    "T_Boss_13_a_03_d": "HT/Content/Characters/Monster/boss_013/ter/ter_new/T_Boss_13_a_03_d.T_Boss_13_a_03_d",
+    "Tex_Tile_22": "HT/Content/FX/Tex/zt_tex/Tex_Tile_22.Tex_Tile_22",
+    "T_Smoke_010": "HT/Content/FX/Tex/Smoke/T_Smoke_010.T_Smoke_010",
+    "PM_Diffuse": "HT/Content/Characters/Monster/boss_013/ter/ter_new/T_Boss_13_a_03_d.T_Boss_13_a_03_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bUsedWithSkeletalMesh": true,
+      "StateId": "D9B82FA5-4F214EE2-814EE9A6-45FD7E1F",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Environment/Building/House/HouseProps/HouseFence/Texture/T_sRGB_Gray.T_sRGB_Gray",
+    "BaseColor": "HT/Content/Environment/Building/House/HouseProps/HouseFence/Texture/T_sRGB_Gray.T_sRGB_Gray",
+    "PM_Normals": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Normal.T_Normal",
+    "Normal": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Normal.T_Normal",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_Cyan.T_Linear_Cyan",
+    "MRA": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_Cyan.T_Linear_Cyan",
+    "PM_Emissive": "HT/Content/Characters/Vehicle/Vehicle_005/Materials/T_Vehicle_005_04_D.T_Vehicle_005_04_D",
+    "Emissive": "HT/Content/Characters/Vehicle/Vehicle_005/Materials/T_Vehicle_005_04_D.T_Vehicle_005_04_D"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint_Day": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "Tint_Night": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 5.0,
+        "G": 5.0,
+        "B": 5.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseEmissive": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_HollowMetal'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_HollowMetal.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCguitarbox/ter/SM_Props_NPCguitarbox_D.SM_Props_NPCguitarbox_D",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCguitarbox/ter/SM_Props_NPCguitarbox_D.SM_Props_NPCguitarbox_D",
+    "LightMap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Cloth_Palettes": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_pants_mm.T_NPCPalettes_Default_pants_mm",
+    "T_NPCPalettes_Default_pants_mm": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_pants_mm.T_NPCPalettes_Default_pants_mm",
+    "T_HairSkin_Palettes": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Hair_Skin_mm.T_NPCPalettes_Default_Hair_Skin_mm",
+    "T_NPCPalettes_Default_Hair_Skin_mm": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Hair_Skin_mm.T_NPCPalettes_Default_Hair_Skin_mm",
+    "T_NPC_ID": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_Alpha.T_sRGB_Alpha",
+    "T_sRGB_Alpha": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_Alpha.T_sRGB_Alpha"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_OutLine_XL_MassAI'",
+        "ObjectPath": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/MI_OutLine_XL_MassAI.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/019_mint/new/ter/ter/cloth_ter/T_player_019_mint_01_id.T_player_019_mint_01_id",
+    "BaseColor": "HT/Content/Characters/Player/019_mint/new/ter/ter/cloth_ter/T_player_019_mint_01_d.T_player_019_mint_01_d",
+    "ID_Tex": "HT/Content/Characters/Player/019_mint/new/ter/ter/cloth_ter/T_player_019_mint_01_id.T_player_019_mint_01_id",
+    "LightMap": "HT/Content/Characters/Player/019_mint/new/ter/ter/cloth_ter/T_player_019_mint_01_m.T_player_019_mint_01_m",
+    "T_player_019_mint_01_m": "HT/Content/Characters/Player/019_mint/new/ter/ter/cloth_ter/T_player_019_mint_01_m.T_player_019_mint_01_m",
+    "RampAltas": "HT/Content/Characters/Player/019_mint/new/ter/Curve/T_ramp_019.T_ramp_019",
+    "T_ramp_019": "HT/Content/Characters/Player/019_mint/new/ter/Curve/T_ramp_019.T_ramp_019",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap04": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap04.Matcap04",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 0.973445,
+        "G": 0.790924,
+        "B": 0.82736,
+        "A": 1.0,
+        "Hex": "FCE6EB"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 0.969184,
+        "B": 0.953125,
+        "A": 1.0,
+        "Hex": "FFFCFA"
+      },
+      "SpecColor2": {
+        "R": 5.0,
+        "G": 5.0,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ID4FresnelBaseColor": {
+        "R": 0.822917,
+        "G": 0.600044,
+        "B": 0.65742,
+        "A": 1.0,
+        "Hex": "EACCD4"
+      },
+      "SpecColor4": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor5": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RampID": 0.0,
+      "RimLight": 0.4,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "SkinBlendBase": -2.576,
+      "SkinBlendExp": 0.18,
+      "Matcap2Min": 0.8,
+      "Matcap2Max": 1.0,
+      "Matcap2Int": 0.2,
+      "RampID2": 8.0,
+      "Matcap3Min": 1.0,
+      "Matcap3Max": 3.0,
+      "Matcap3Int": 0.5,
+      "RampID3": 14.0,
+      "Matcap4Min": 0.2,
+      "Matcap4Max": 7.0,
+      "Matcap4Int": 0.5,
+      "ID4FresnelBase": 0.3,
+      "ID4FresnelPow": 1.0,
+      "RampID4": 12.0,
+      "Matcap5Min": 1.0,
+      "Matcap5Max": 1.2,
+      "Matcap5Int": 2.5,
+      "RampID5": 14.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 1.0,
+      "Matcap6Int": 0.0,
+      "RampID6": 12.0,
+      "LightdirZMul": 0.5,
+      "SpecIntensity": 2.0,
+      "SpecMetalPow": 6.0,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 10.0,
+      "SpecSmooth": 0.02,
+      "LightNormalStrength": 0.0,
+      "MatcapNomralStrength": 1.0,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseMatcap1": false,
+      "BlendSkinFresnel": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap2": true,
+      "ID4_FresnelColor": true,
+      "UseMatcap5": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'player_019_mint_cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/019_mint/new/ter/outline/player_019_mint_cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

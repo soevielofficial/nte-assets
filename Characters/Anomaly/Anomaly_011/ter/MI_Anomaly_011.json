@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_011/ter/T_Anomaly_011_d.T_Anomaly_011_d",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_011/ter/T_Anomaly_011_d.T_Anomaly_011_d",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_011/ter/T_Anomaly_011_m.T_Anomaly_011_m",
+    "T_Anomaly_011_m": "HT/Content/Characters/Anomaly/Anomaly_011/ter/T_Anomaly_011_m.T_Anomaly_011_m",
+    "RampAltas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas",
+    "T_Character006_RampAtlas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 0.0,
+      "SpecIntensity": 0.0,
+      "MatcapNomralStrength": 1.0,
+      "NormalTilling": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

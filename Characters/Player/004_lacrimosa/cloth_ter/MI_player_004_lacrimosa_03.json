@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_d.T_player_004_lacrimosa_03_d",
+    "BaseColor": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_d.T_player_004_lacrimosa_03_d",
+    "LightMap": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_m.T_player_004_lacrimosa_03_m",
+    "T_player_004_lacrimosa_03_m": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_m.T_player_004_lacrimosa_03_m",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "PM_SpecularMasks": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_n.T_player_004_lacrimosa_03_n",
+    "NomralMap": "HT/Content/Characters/Player/004_lacrimosa/cloth_ter/T_player_004_lacrimosa_03_n.T_player_004_lacrimosa_03_n"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "SpecIntensity": 0.5,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

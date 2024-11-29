@@ -1,0 +1,114 @@
+{
+  "Textures": {
+    "PM_Emissive": "HT/Content/Characters/Monster/mon_03/ter/mon_03_Mask.mon_03_Mask",
+    "EmissiveTex": "HT/Content/Characters/Monster/mon_03/ter/mon_03_Mask.mon_03_Mask",
+    "EmissivePanner_Mask": "HT/Content/Characters/Monster/mon_03/ter/mon_03_Mask.mon_03_Mask",
+    "Base_Mask": "HT/Content/Characters/Monster/mon_03/ter/mon_03_mask_2.mon_03_mask_2",
+    "mon_03_mask_2": "HT/Content/Characters/Monster/mon_03/ter/mon_03_mask_2.mon_03_mask_2",
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_ID.T_Character_ID",
+    "BaseColor": "HT/Content/Characters/Monster/mon_03/ter/mon_03_d.mon_03_d",
+    "EV": "HT/Content/FX/Tex/zt_tex/Fx_T_mask_02_wzc.Fx_T_mask_02_wzc",
+    "Fx_T_mask_02_wzc": "HT/Content/FX/Tex/zt_tex/Fx_T_mask_02_wzc.Fx_T_mask_02_wzc",
+    "ID_Tex": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_ID.T_Character_ID",
+    "LightMap": "HT/Content/Characters/Monster/mon_03/ter/mon_03_m.mon_03_m",
+    "mon_03_m": "HT/Content/Characters/Monster/mon_03/ter/mon_03_m.mon_03_m",
+    "RampAltas": "HT/Content/Characters/Monster/mon_03/ter/mon_03_ramp.mon_03_ramp",
+    "mon_03_ramp": "HT/Content/Characters/Monster/mon_03/ter/mon_03_ramp.mon_03_ramp"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "NoiseTex_UV": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "EmissivePanne_UV": {
+        "R": 0.65,
+        "G": 2.0,
+        "B": 0.55,
+        "A": 0.0,
+        "Hex": "D3FFC4"
+      },
+      "EmissivePanner_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissivePanner_HueShiftColor": {
+        "R": 0.728997,
+        "G": 0.0,
+        "B": 2.0,
+        "A": 1.0,
+        "Hex": "DE00FF"
+      },
+      "EV_Color": {
+        "R": 0.0,
+        "G": 0.859876,
+        "B": 0.880208,
+        "A": 1.0,
+        "Hex": "00EFF2"
+      }
+    },
+    "Scalars": {
+      "EmissivePanner_HueShiftColor_MaskPower": 0.5,
+      "HueShift": 0.8,
+      "Desaturation": 0.0,
+      "Opacity": 1.0,
+      "RampID2": 0.0,
+      "RampID3": 0.0,
+      "RampID4": 0.0,
+      "RampID5": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "1": false,
+      "UseEmissiveColor": true,
+      "UseEmissivePanner": true
+    },
+    "Properties": {
+      "NaniteOverrideMaterial": {
+        "OverrideMaterialRef": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "bEnableOverride": false,
+        "OverrideMaterial": null
+      },
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "bOverride_OutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

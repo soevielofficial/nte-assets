@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/008_Skia/ter_hair/player_008_Skia_hair1.player_008_Skia_hair1",
+    "BaseColor": "HT/Content/Characters/Player/008_Skia/ter_hair/player_008_Skia_hair1.player_008_Skia_hair1",
+    "LightMap": "HT/Content/Characters/Player/008_Skia/ter_hair/player_008_Skia_hair1_m.player_008_Skia_hair1_m",
+    "player_008_Skia_hair1_m": "HT/Content/Characters/Player/008_Skia/ter_hair/player_008_Skia_hair1_m.player_008_Skia_hair1_m",
+    "RampAltas": "HT/Content/Characters/Player/008_Skia/curve/T_008_Skia.T_008_Skia",
+    "T_008_Skia": "HT/Content/Characters/Player/008_Skia/curve/T_008_Skia.T_008_Skia"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 0.913086,
+        "G": 0.91512,
+        "B": 0.973958,
+        "A": 1.0,
+        "Hex": "F5F6FD"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.18,
+      "BlendDistance": 0.895238,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'hair'",
+        "ObjectPath": "HT/Content/Characters/Player/008_Skia/outline/hair.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

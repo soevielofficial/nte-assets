@@ -1,0 +1,86 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/010_nanally/NEW_ter/ter/hair_ter/player_010_nanally_hair_02_d.player_010_nanally_hair_02_d",
+    "BaseColor": "HT/Content/Characters/Player/010_nanally/NEW_ter/ter/hair_ter/player_010_nanally_hair_02_d.player_010_nanally_hair_02_d",
+    "LightMap": "HT/Content/Characters/Player/010_nanally/NEW_ter/ter/hair_ter/player_010_nanally_hair_02_m.player_010_nanally_hair_02_m",
+    "player_010_nanally_hair_02_m": "HT/Content/Characters/Player/010_nanally/NEW_ter/ter/hair_ter/player_010_nanally_hair_02_m.player_010_nanally_hair_02_m",
+    "RampAltas": "HT/Content/Characters/Player/010_nanally/NEW_ter/curve/T_nanali_curve.T_nanali_curve",
+    "T_nanali_curve": "HT/Content/Characters/Player/010_nanally/NEW_ter/curve/T_nanali_curve.T_nanali_curve",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.2,
+        "G": 0.853308,
+        "B": 1.014814,
+        "A": 1.0,
+        "Hex": "FFEEFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 0.647522,
+        "B": 0.848198,
+        "A": 1.0,
+        "Hex": "FFD3EE"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 0.3,
+      "RampID": 0.0,
+      "RimDirectionHeight": 140.0,
+      "RimLight": 0.3,
+      "ShadowOffsetRange": 0.2,
+      "LightdirZMul": 0.7,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.52,
+      "BlendDistance": 0.632,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseDuskRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'010_hair1'",
+        "ObjectPath": "HT/Content/Characters/Player/010_nanally/NEW_ter/ter/hair_ter/010_hair1.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

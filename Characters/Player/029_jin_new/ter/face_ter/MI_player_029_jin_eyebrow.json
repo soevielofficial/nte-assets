@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_r.T_player_029_jin_face_r",
+    "T_player_029_jin_face_r": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_r.T_player_029_jin_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_d.T_player_029_jin_face_d",
+    "BaseColor": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_d.T_player_029_jin_face_d",
+    "LightMap": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_m.T_player_029_jin_face_m",
+    "T_player_029_jin_face_m": "HT/Content/Characters/Player/029_jin_new/ter/face_ter/T_player_029_jin_face_m.T_player_029_jin_face_m",
+    "RampAltas": "HT/Content/Characters/Player/029_jin_new/ter/cover/T_jin.T_jin",
+    "T_jin": "HT/Content/Characters/Player/029_jin_new/ter/cover/T_jin.T_jin"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "SpecIntensity": 0.84,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_029_jin_cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/029_jin_new/ter/outline/MI_player_029_jin_cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333,
+        "EmbroideryStencilOp": "EMaterialEmbroideryStencilOp::MESO_Set"
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

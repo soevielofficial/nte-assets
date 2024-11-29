@@ -1,0 +1,101 @@
+{
+  "Textures": {
+    "OpacityTex": "HT/Content/FX/Tex/zt_tex/T_Gradinet_08.T_Gradinet_08",
+    "T_Gradinet_08": "HT/Content/FX/Tex/zt_tex/T_Gradinet_08.T_Gradinet_08",
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_d.T_Anomaly_031_03_d",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_d.T_Anomaly_031_03_d",
+    "CharaterToneLut": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "Character_TonemapAtlas": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_m.T_Anomaly_031_03_m",
+    "T_Anomaly_031_03_m": "HT/Content/Characters/Anomaly/Anomaly_031/ter/T_Anomaly_031_03_m.T_Anomaly_031_03_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "color_1": {
+        "R": 3.252675,
+        "G": 5.0,
+        "B": 1.40587,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "color_2": {
+        "R": 0.569158,
+        "G": 2.0,
+        "B": 0.856501,
+        "A": 1.0,
+        "Hex": "C7FFEF"
+      },
+      "CurveAMUVRotator": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "CurveAMUVTilingSpeed": {
+        "R": 5.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": -0.7,
+        "Hex": "FFFF00"
+      },
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "RampBackLitHSVAlpha": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "BaseReflectFractionIn": 0.01,
+      "ExponentIn": 2.0,
+      "intest": 1.5,
+      "intest1": 2.0,
+      "time": 0.2,
+      "CharaterMipBias": -2.0,
+      "LocalLightHard": 50.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "BaseColorInverseColor": 0.0,
+      "LightdirZMul": 0.5,
+      "SpecIntensity": 50.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.886246,
+      "SpecPow": 10.0,
+      "SpecSmooth": 0.02,
+      "SpecSpeedX": 0.5,
+      "SpecSpeedY": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

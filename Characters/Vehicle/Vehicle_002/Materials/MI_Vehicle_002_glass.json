@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_N.T_Vehicle_002_glass_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_N.T_Vehicle_002_glass_N",
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Materials/T_Vehicle_glass_break_01.T_Vehicle_glass_break_01",
+    "ScratchBaseColor": "HT/Content/Characters/Vehicle/Materials/T_Vehicle_glass_break_01.T_Vehicle_glass_break_01"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 0.096,
+        "G": 0.151513,
+        "B": 0.24,
+        "A": 1.0,
+        "Hex": "576C86"
+      },
+      "BaseColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "BCBCBC"
+      }
+    },
+    "Scalars": {
+      "Metalic": 0.3,
+      "Opacity": 0.6,
+      "Opacityback": 0.5,
+      "Roughness": 0.1,
+      "Specular": 0.0,
+      "ScratchTilling": 1.0,
+      "ScratchRangeOffset": 1.0,
+      "ScratchRangeScale": 3.0,
+      "ScratchStrength": 2.0,
+      "ScratchL": 0.0,
+      "ScratchR": 0.0,
+      "ScratchF": 0.0,
+      "ScratchB": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCarScratch": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Glass'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_Glass.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

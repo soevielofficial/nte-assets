@@ -1,0 +1,70 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/npc_sub_001_face_r.npc_sub_001_face_r",
+    "npc_sub_001_face_r": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/npc_sub_001_face_r.npc_sub_001_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/A/npc_sub_001_hairA_d.npc_sub_001_hairA_d",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/A/npc_sub_001_hairA_d.npc_sub_001_hairA_d",
+    "LightMap": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/A/npc_sub_001_hairA_m.npc_sub_001_hairA_m",
+    "npc_sub_001_hairA_m": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_001/hair_ter/A/npc_sub_001_hairA_m.npc_sub_001_hairA_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_male.NPC_RampAtlas_male",
+    "NPC_RampAtlas_male": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_male.NPC_RampAtlas_male"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.35,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "RampID1": 2.0,
+      "RampID4": 0.0,
+      "RampID6": 0.0,
+      "SpecSize": 0.0,
+      "SpecIntensity": 0.84,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_001_mint_OutLine'",
+        "ObjectPath": "HT/Content/Characters/Player/mint/player_001_mint/face_ter/MI_player_001_mint_OutLine.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

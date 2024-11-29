@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Monster/mon_012/ter/T_mon_12_01_Mask.T_mon_12_01_Mask",
+    "Base_Tex": "HT/Content/Characters/Monster/mon_012/ter/T_mon_12_01_d.T_mon_12_01_d",
+    "Mask_Tex": "HT/Content/Characters/Monster/mon_012/ter/T_mon_12_01_Mask.T_mon_12_01_Mask"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Fresnel_Color": {
+        "R": 0.367164,
+        "G": 0.0,
+        "B": 0.386,
+        "A": 1.0,
+        "Hex": "A300A7"
+      },
+      "UV_Skewing1": {
+        "R": 110.0,
+        "G": 110.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      }
+    },
+    "Scalars": {
+      "Em_Color_Light": 0.4,
+      "BaseReflectFractionIn": -16.504602,
+      "ExponentIn": 0.126218,
+      "Power_Fresnel": 0.0,
+      "BaseReflectFractionIn_1": 2.773346,
+      "ExponentIn_1": -0.274919,
+      "power": 0.949553,
+      "Add": 1.0,
+      "Divide": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "bOverride_TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

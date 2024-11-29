@@ -1,0 +1,90 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_r.player_014_kuhara_face_r",
+    "player_014_kuhara_face_r": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_r.player_014_kuhara_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_d.player_014_kuhara_face_d",
+    "BaseColor": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_d.player_014_kuhara_face_d",
+    "LightMap": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_m.player_014_kuhara_face_m",
+    "player_014_kuhara_face_m": "HT/Content/Characters/Player/014_kuhara_new/ter/face_ter/player_014_kuhara_face_m.player_014_kuhara_face_m",
+    "RampAltas": "HT/Content/Characters/Player/014_kuhara_new/ter/curve/T_kuhara_1.T_kuhara_1",
+    "T_kuhara_1": "HT/Content/Characters/Player/014_kuhara_new/ter/curve/T_kuhara_1.T_kuhara_1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "69322E"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.198713,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 22.0,
+      "RampID6": 16.0,
+      "LipsOutlineStrength": 0.5,
+      "SpecIntensity": 0.84,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "ID0_UseModifyColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'014_kuhara_face'",
+        "ObjectPath": "HT/Content/Characters/Player/014_kuhara_new/ter/outline/014_kuhara_face.0"
+      },
+      "bOverrideHairShadowOverlayMaterial": true,
+      "HairShadowOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_HairShaow_DrawFace'",
+        "ObjectPath": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MI_HairShaow_DrawFace.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

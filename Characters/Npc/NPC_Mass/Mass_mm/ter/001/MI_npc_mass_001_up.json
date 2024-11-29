@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_d.npc_mass_001_cloth_d",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_d.npc_mass_001_cloth_d",
+    "LightMap": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_m.npc_mass_001_cloth_m",
+    "npc_mass_001_cloth_m": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_m.npc_mass_001_cloth_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_male.NPC_RampAtlas_male",
+    "NPC_RampAtlas_male": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_male.NPC_RampAtlas_male",
+    "T_Cloth_Palettes": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Cloth_mm.T_NPCPalettes_Default_Cloth_mm",
+    "T_NPCPalettes_Default_Cloth_mm": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Cloth_mm.T_NPCPalettes_Default_Cloth_mm",
+    "T_HairSkin_Palettes": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Hair_Skin_mm.T_NPCPalettes_Default_Hair_Skin_mm",
+    "T_NPCPalettes_Default_Hair_Skin_mm": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/T_NPCPalettes_Default_Hair_Skin_mm.T_NPCPalettes_Default_Hair_Skin_mm",
+    "T_NPC_ID": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_id.npc_mass_001_cloth_id",
+    "npc_mass_001_cloth_id": "HT/Content/Characters/Npc/NPC_Mass/Mass_mm/ter/001/npc_mass_001_cloth_id.npc_mass_001_cloth_id"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RampID": 6.0,
+      "RampIDSkin": 2.0,
+      "ShadowOffsetRange": 0.5,
+      "ColorID": 0.0,
+      "SkinID": 0.0,
+      "SkinShadowID": 2.0,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_OutLine_XL_MassAI'",
+        "ObjectPath": "HT/Content/CoreMaterials/Character/ToonMaterial/MassAI/MI_OutLine_XL_MassAI.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

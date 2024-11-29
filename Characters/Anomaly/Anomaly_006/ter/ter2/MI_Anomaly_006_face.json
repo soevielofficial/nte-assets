@@ -1,0 +1,73 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_005/ter/T_npc_sub_005_head_fm_r.T_npc_sub_005_head_fm_r",
+    "T_npc_sub_005_head_fm_r": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_005/ter/T_npc_sub_005_head_fm_r.T_npc_sub_005_head_fm_r",
+    "PM_Diffuse": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_face_D.T_Anomaly_006_face_D",
+    "BaseColor": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_face_D.T_Anomaly_006_face_D",
+    "LightMap": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_face_M.T_Anomaly_006_face_M",
+    "T_Anomaly_006_face_M": "HT/Content/Characters/Anomaly/Anomaly_006/ter/ter2/T_Anomaly_006_face_M.T_Anomaly_006_face_M",
+    "RampAltas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas",
+    "T_Character006_RampAtlas": "HT/Content/Characters/Anomaly/Anomaly_006/curve/T_Character006_RampAtlas.T_Character006_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 0.0,
+      "SpecSize": 0.0,
+      "SpecIntensity": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Anomaly/Anomaly_006/ter/outline/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

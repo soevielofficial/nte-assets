@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_D.T_Vehicle_002_glass_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_D.T_Vehicle_002_glass_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_N.T_Vehicle_002_glass_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_glass_N.T_Vehicle_002_glass_N"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "BaseColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "BCBCBC"
+      }
+    },
+    "Scalars": {
+      "IOR": 1.02,
+      "Opacity": 0.35,
+      "Specular": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Glass'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_Glass.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

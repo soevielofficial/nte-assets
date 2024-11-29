@@ -1,0 +1,72 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "BaseColor": "HT/Content/Characters/Player/mint/player_001_mint/face_ter/T_player_001_mint_face_d_new.T_player_001_mint_face_d_new",
+    "ID_Tex": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "LightMap": "HT/Content/Characters/Player/mint/player_001_mint/face_ter/T_player_001_mint_face_m.T_player_001_mint_face_m",
+    "T_player_001_mint_face_m": "HT/Content/Characters/Player/mint/player_001_mint/face_ter/T_player_001_mint_face_m.T_player_001_mint_face_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_Ramp_sub_fl.NPC_Ramp_sub_fl",
+    "NPC_Ramp_sub_fl": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_Ramp_sub_fl.NPC_Ramp_sub_fl",
+    "Matcap6": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": -0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 0.0,
+      "RampID2": 0.0,
+      "RampID5": 0.0,
+      "Matcap6Min": 0.0,
+      "Matcap6Max": 0.0,
+      "Matcap6Int": 0.0,
+      "RampID6": 0.0,
+      "SpecIntensity": 0.0,
+      "SkinShadowID": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_001_mint_OutLine_hair'",
+        "ObjectPath": "HT/Content/Characters/Player/mint/player_001_mint/hair_ter/001_outline/MI_player_001_mint_OutLine_hair.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

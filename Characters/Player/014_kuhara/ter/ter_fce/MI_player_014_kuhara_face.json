@@ -1,0 +1,85 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_r.player_014_kuhara_face_r",
+    "player_014_kuhara_face_r": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_r.player_014_kuhara_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_d.player_014_kuhara_face_d",
+    "BaseColor": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_d.player_014_kuhara_face_d",
+    "LightMap": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_m.player_014_kuhara_face_m",
+    "player_014_kuhara_face_m": "HT/Content/Characters/Player/014_kuhara/ter/ter_fce/player_014_kuhara_face_m.player_014_kuhara_face_m",
+    "RampAltas": "HT/Content/Characters/Player/Common_ter/common_ramp/common_face_ramp.common_face_ramp",
+    "common_face_ramp": "HT/Content/Characters/Player/Common_ter/common_ramp/common_face_ramp.common_face_ramp"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 0.873313,
+        "B": 0.807292,
+        "A": 1.0,
+        "Hex": "FFF1E8"
+      },
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "69322E"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 0.0,
+      "RampID6": 1.0,
+      "SpecSize": 0.0,
+      "SpecIntensity": 0.84,
+      "NoseMarkRange": 0.87,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "ID0_UseModifyColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'face'",
+        "ObjectPath": "HT/Content/Characters/Player/014_kuhara/ter/outline/face.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/030_iskra/ter/hair_ter/T_player_030_iskra_hair_2_d.T_player_030_iskra_hair_2_d",
+    "BaseColor": "HT/Content/Characters/Player/030_iskra/ter/hair_ter/T_player_030_iskra_hair_2_d.T_player_030_iskra_hair_2_d",
+    "LightMap": "HT/Content/Characters/Player/030_iskra/ter/hair_ter/T_player_030_iskra_hair_2_m.T_player_030_iskra_hair_2_m",
+    "T_player_030_iskra_hair_2_m": "HT/Content/Characters/Player/030_iskra/ter/hair_ter/T_player_030_iskra_hair_2_m.T_player_030_iskra_hair_2_m"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.952,
+      "BlendDistance": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'030_hair_2'",
+        "ObjectPath": "HT/Content/Characters/Player/030_iskra/ter/outline/030_hair_2.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

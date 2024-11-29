@@ -1,0 +1,76 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Npc/NPC_002/face_ter/T_player_001_mint_face_r.T_player_001_mint_face_r",
+    "T_player_001_mint_face_r": "HT/Content/Characters/Npc/NPC_002/face_ter/T_player_001_mint_face_r.T_player_001_mint_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_002/face_ter/T_npc_002_nelly_01_face_d.T_npc_002_nelly_01_face_d",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_002/face_ter/T_npc_002_nelly_01_face_d.T_npc_002_nelly_01_face_d",
+    "LightMap": "HT/Content/Characters/Npc/NPC_002/face_ter/T_npc_002_nelly_01_face_m.T_npc_002_nelly_01_face_m",
+    "T_npc_002_nelly_01_face_m": "HT/Content/Characters/Npc/NPC_002/face_ter/T_npc_002_nelly_01_face_m.T_npc_002_nelly_01_face_m",
+    "RampAltas": "HT/Content/Characters/Npc/NPC_002/curve/T_NPC_002_Curve.T_NPC_002_Curve",
+    "T_NPC_002_Curve": "HT/Content/Characters/Npc/NPC_002/curve/T_NPC_002_Curve.T_NPC_002_Curve"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 7.0,
+      "RampID6": 6.0,
+      "SpecSize": 0.0,
+      "SpecIntensity": 0.84,
+      "LowShadowBrightness": 0.6,
+      "HighShadowBrightness": 0.75,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_npc_002_nelly_01_OutLine'",
+        "ObjectPath": "HT/Content/Characters/Npc/NPC_002/face_ter/MI_npc_002_nelly_01_OutLine.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

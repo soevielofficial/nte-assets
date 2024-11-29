@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "common_face_d": "HT/Content/Characters/Player/Common_ter/common_face_d.common_face_d",
+    "PM_Diffuse": "HT/Content/Characters/Player/Common_ter/common_face_d.common_face_d"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "TwoSided": true,
+      "bUsedWithSkeletalMesh": true,
+      "bUsedWithMorphTargets": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "BE16492B-48CE5D3A-BC1FF589-C62C3A87",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/030_iskra/ter/face_ter/player_030_iskra_face_d.player_030_iskra_face_d",
+    "BaseColor": "HT/Content/Characters/Player/030_iskra/ter/face_ter/player_030_iskra_face_d.player_030_iskra_face_d",
+    "LightMap": "HT/Content/Characters/Player/030_iskra/ter/face_ter/player_030_iskra_face_m.player_030_iskra_face_m",
+    "player_030_iskra_face_m": "HT/Content/Characters/Player/030_iskra/ter/face_ter/player_030_iskra_face_m.player_030_iskra_face_m"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "CharaterMipBias": -4.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "SpecIntensity": 0.84,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/003_sagiri/outline/cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "bOutputTranslucentVelocity": true,
+        "BlendMode": "EBlendMode::BLEND_Translucent",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

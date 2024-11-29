@@ -1,0 +1,39 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "BaseColor": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 0.19,
+        "G": 0.1925,
+        "B": 0.2,
+        "A": 1.0,
+        "Hex": "79797C"
+      }
+    },
+    "Scalars": {
+      "Metalic": 0.8,
+      "Roughness": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

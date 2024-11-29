@@ -1,0 +1,81 @@
+{
+  "Textures": {
+    "PM_SpecularMasks": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_id.T_npc_Sub_040_body_fm_id",
+    "NPCColorMask": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_id.T_npc_Sub_040_body_fm_id",
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_d.T_npc_Sub_040_body_fm_d",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_d.T_npc_Sub_040_body_fm_d",
+    "LightMap": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_m.T_npc_Sub_040_body_fm_m",
+    "T_npc_Sub_040_body_fm_m": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_040/ter/T_npc_Sub_040_body_fm_m.T_npc_Sub_040_body_fm_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_female.NPC_RampAtlas_female",
+    "NPC_RampAtlas_female": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_RampAtlas_female.NPC_RampAtlas_female"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "R_Color": {
+        "R": 0.054463,
+        "G": 0.080138,
+        "B": 0.098958,
+        "A": 1.0,
+        "Hex": "425058"
+      },
+      "G_Color": {
+        "R": 0.078125,
+        "G": 0.078125,
+        "B": 0.078125,
+        "A": 1.0,
+        "Hex": "4F4F4F"
+      },
+      "B_Color": {
+        "R": 0.044271,
+        "G": 0.044271,
+        "B": 0.044271,
+        "A": 1.0,
+        "Hex": "3B3B3B"
+      },
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 2.0,
+      "RampID4": 6.0,
+      "RampID6": 0.0,
+      "SpecIntensity": 0.1,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

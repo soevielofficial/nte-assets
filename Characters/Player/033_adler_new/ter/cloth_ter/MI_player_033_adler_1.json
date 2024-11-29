@@ -1,0 +1,173 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064_c.MatCap064_c",
+    "BaseColor": "HT/Content/Characters/Player/033_adler_new/ter/cloth_ter/T_player_033_adler_body1_d.T_player_033_adler_body1_d",
+    "ID_Tex": "HT/Content/Characters/Player/033_adler_new/ter/cloth_ter/T_player_033_adler_body1_id.T_player_033_adler_body1_id",
+    "LightMap": "HT/Content/Characters/Player/033_adler_new/ter/cloth_ter/T_player_033_adler_body1_m.T_player_033_adler_body1_m",
+    "T_player_033_adler_body1_m": "HT/Content/Characters/Player/033_adler_new/ter/cloth_ter/T_player_033_adler_body1_m.T_player_033_adler_body1_m",
+    "RampAltas": "HT/Content/Characters/Player/033_adler_new/ter/Curve/T_adler.T_adler",
+    "T_adler": "HT/Content/Characters/Player/033_adler_new/ter/Curve/T_adler.T_adler",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "MatCap064": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064.MatCap064",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064_c.MatCap064_c",
+    "MatCap064_c": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap064_c.MatCap064_c",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "Matcap05": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap066.MatCap066",
+    "MatCap066": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap066.MatCap066",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.088,
+        "G": -1.108668,
+        "B": -0.699199,
+        "A": 1.0,
+        "Hex": "540000"
+      },
+      "SkinBlendColor": {
+        "R": 0.848958,
+        "G": 0.699944,
+        "B": 0.622286,
+        "A": 2.0,
+        "Hex": "EEDACF"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor3": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ID4FresnelBaseColor": {
+        "R": 0.170139,
+        "G": 0.198641,
+        "B": 0.255208,
+        "A": 1.0,
+        "Hex": "737B8A"
+      },
+      "ID5FresnelBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID6FresnelBaseColor": {
+        "R": 0.541396,
+        "G": 0.534995,
+        "B": 0.901042,
+        "A": 1.0,
+        "Hex": "C3C2F4"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.4,
+      "ShadowOffsetRange": 1.2,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "Matcap2Min": 0.836496,
+      "Matcap2Max": 7.721119,
+      "Matcap2Int": 0.717726,
+      "RampID2": 6.0,
+      "Matcap3Min": 1.388272,
+      "Matcap3Max": 17.191902,
+      "Matcap3Int": 7.638501,
+      "RampID3": 8.0,
+      "Matcap4Min": 0.76685,
+      "Matcap4Max": 0.979868,
+      "Matcap4Int": 9.899207,
+      "ID4FresnelBase": -0.307061,
+      "ID4FresnelPow": 1.161564,
+      "RampID4": 10.0,
+      "Matcap5Min": 1.2,
+      "Matcap5Max": 1.0,
+      "Matcap5Int": 0.0,
+      "ID5FresnelBase": 0.04,
+      "ID5FresnelPow": 2.0,
+      "RampID5": 12.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 1.0,
+      "Matcap6Int": 0.0,
+      "ID6FresnelBase": 0.024,
+      "ID6FresnelPow": 5.353947,
+      "RampID6": 14.0,
+      "BaseColorInverseColor": 0.0,
+      "SpecIntensity": 3.0,
+      "SpecMetalPow": 7.04,
+      "SpecMetalRange": 0.415642,
+      "SpecPow": 66.0,
+      "SpecSmooth": 0.0001,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseMatcap1": false,
+      "BlendSilk": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap2": false,
+      "UseMatcap3": false,
+      "UseMatcap4": false,
+      "ID4_FresnelColor": true,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'player_033_cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/033_adler_new/ter/outline/player_033_cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

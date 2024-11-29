@@ -1,0 +1,81 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_r.T_player_009_female_face_r",
+    "T_player_009_female_face_r": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_r.T_player_009_female_face_r",
+    "PM_Diffuse": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_d.T_player_009_female_face_d",
+    "BaseColor": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_d.T_player_009_female_face_d",
+    "LightMap": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_m.T_player_009_female_face_m",
+    "T_player_009_female_face_m": "HT/Content/Characters/Player/009_female/ter/face_ter_new/T_player_009_female_face_m.T_player_009_female_face_m",
+    "RampAltas": "HT/Content/Characters/Player/009_female/curve/T_female_009.T_female_009",
+    "T_female_009": "HT/Content/Characters/Player/009_female/curve/T_female_009.T_female_009"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.075,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ToonID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 20.0,
+      "RampID6": 18.0,
+      "SpecIntensity": 0.84,
+      "LowShadowBrightness": 0.9,
+      "HighShadowBrightness": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "ID0_UseModifyColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_CharacterToon_Eye_XL'",
+        "ObjectPath": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MI_CharacterToon_Eye_XL.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_EmbroideryStencilOp": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333,
+        "EmbroideryStencilOp": "EMaterialEmbroideryStencilOp::MESO_Set"
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/018_alphard/ter/cloth_ter/T_player_018_alphard_01_id.T_player_018_alphard_01_id",
+    "BaseColor": "HT/Content/Characters/Player/018_alphard/ter/cloth_ter/T_player_018_alphard_01_d.T_player_018_alphard_01_d",
+    "ID_Tex": "HT/Content/Characters/Player/018_alphard/ter/cloth_ter/T_player_018_alphard_01_id.T_player_018_alphard_01_id",
+    "LightMap": "HT/Content/Characters/Player/018_alphard/ter/cloth_ter/T_player_018_alphard_01_m.T_player_018_alphard_01_m",
+    "T_player_018_alphard_01_m": "HT/Content/Characters/Player/018_alphard/ter/cloth_ter/T_player_018_alphard_01_m.T_player_018_alphard_01_m",
+    "RampAltas": "HT/Content/Characters/Player/018_alphard/ter/Curve/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/Characters/Player/018_alphard/ter/Curve/T_Character_RampAtlas.T_Character_RampAtlas",
+    "BaseMatcap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "T_Linear_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Linear_White.T_Linear_White",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m5.m5",
+    "m5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m5.m5",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "MatCap065": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065.MatCap065",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02_2.Matcap02_2",
+    "Matcap02_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02_2.Matcap02_2",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02.Matcap02",
+    "Matcap02": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap02.Matcap02",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.59375,
+        "G": 0.59375,
+        "B": 0.59375,
+        "A": 1.0,
+        "Hex": "CBCBCB"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "SkinBlendColor": {
+        "R": 0.973445,
+        "G": 0.790924,
+        "B": 0.82736,
+        "A": 1.0,
+        "Hex": "FCE6EB"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 0.979167,
+        "B": 0.982452,
+        "A": 1.0,
+        "Hex": "FFFDFE"
+      },
+      "ID0_ShadowColor": {
+        "R": 0.864583,
+        "G": 0.702474,
+        "B": 0.744142,
+        "A": 1.0,
+        "Hex": "F0DBE0"
+      }
+    },
+    "Scalars": {
+      "RampID": 0.0,
+      "ToonID": 3.0,
+      "ShadowOffsetRange": 0.5,
+      "BaseMatcapMin": 1.0,
+      "BaseMatcapMax": 1.0,
+      "BaseMatcapInt": 0.0,
+      "Matcap1Min": 4.996199,
+      "Matcap1Max": 15.0,
+      "Matcap1Int": 0.1,
+      "RampID1": 4.0,
+      "SkinBlendBase": -2.576,
+      "SkinBlendExp": 0.18,
+      "Matcap2Min": 0.8,
+      "Matcap2Max": 1.5,
+      "Matcap2Int": 0.5,
+      "Specmetal2": 1.0,
+      "RampID2": 6.0,
+      "Matcap3Min": 1.0,
+      "Matcap3Max": 1.0,
+      "Matcap3Int": 0.0,
+      "RampID3": 0.0,
+      "Matcap4Min": 1.0,
+      "Matcap4Max": 3.0,
+      "Matcap4Int": 1.0,
+      "Matcap5Min": 1.0,
+      "Matcap5Max": 3.0,
+      "Matcap5Int": 1.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 2.5,
+      "Matcap6Int": 3.0,
+      "RampID6": 0.0,
+      "SpecSize": 0.3,
+      "SpecMetal": 0.0,
+      "SpecFlatten": 0.6,
+      "SpecIntensity": 2.0,
+      "LightNormalStrength": 0.0,
+      "MatcapNomralStrength": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMatcap1": false,
+      "BlendSkinFresnel": false,
+      "ID0_UseModifyColor": false,
+      "UseMatcap2": true,
+      "UseMatcap3": false,
+      "UseMatcap4": false,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_018_OutLine'",
+        "ObjectPath": "HT/Content/Characters/Player/018_alphard/ter/outline/MI_018_OutLine.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cloth_ter/T_player_003_sagiri_03_id.T_player_003_sagiri_03_id",
+    "BaseColor": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cloth_ter/T_player_003_sagiri_03_d.T_player_003_sagiri_03_d",
+    "ID_Tex": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cloth_ter/T_player_003_sagiri_03_id.T_player_003_sagiri_03_id",
+    "LightMap": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cloth_ter/T_player_003_sagiri_03_m01.T_player_003_sagiri_03_m01",
+    "T_player_003_sagiri_03_m01": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cloth_ter/T_player_003_sagiri_03_m01.T_player_003_sagiri_03_m01",
+    "RampAltas": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cover1/T_sagiri.T_sagiri",
+    "T_sagiri": "HT/Content/Characters/Player/003_sagiri_1/ter_new/cover1/T_sagiri.T_sagiri",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap4": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "Matcap05": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m.m",
+    "m": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m.m"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 1.0,
+        "G": 0.858225,
+        "B": 0.818082,
+        "A": 1.0,
+        "Hex": "FFEFEA"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor2": {
+        "R": 1.002693,
+        "G": 1.116468,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID4FresnelBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor4": {
+        "R": 0.869228,
+        "G": 0.718557,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "F0DDFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.4,
+      "ShadowOffsetRange": 1.2,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 2.0,
+      "SkinBlendBase": 1.0,
+      "SkinBlendExp": 1.4,
+      "Matcap2Min": 1.0,
+      "Matcap2Max": 5.0,
+      "Matcap2Int": 1.0,
+      "RampID2": 6.0,
+      "Matcap3Min": 0.5,
+      "Matcap3Max": 3.0,
+      "Matcap3Int": 5.0,
+      "RampID3": 8.0,
+      "Matcap4Min": 0.76685,
+      "Matcap4Max": 0.979868,
+      "Matcap4Int": 9.899207,
+      "ID4FresnelBase": 0.04,
+      "ID4FresnelPow": 2.0,
+      "RampID4": 10.0,
+      "Matcap5Min": 0.7,
+      "Matcap5Max": 12.088017,
+      "Matcap5Int": 0.428932,
+      "RampID5": 12.0,
+      "Matcap6Min": 1.0,
+      "Matcap6Max": 2.981623,
+      "Matcap6Int": 1.972993,
+      "RampID6": 24.0,
+      "BaseColorInverseColor": 0.0,
+      "LightdirZMul": 0.2,
+      "SpecIntensity": 1.5,
+      "SpecMetalPow": 6.032,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 11.008001,
+      "SpecSmooth": 0.0001,
+      "SpecSpeedX": 0.671324,
+      "SpecSpeedY": 0.742349,
+      "ShadowID": 0.0,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "UseMatcap1": false,
+      "ID0_UseModifyColor": true,
+      "UseMatcap3": false,
+      "UseMatcap4": true,
+      "UseMatcap5": false,
+      "UseMatcap6": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/003_sagiri_1/ter/outline/cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

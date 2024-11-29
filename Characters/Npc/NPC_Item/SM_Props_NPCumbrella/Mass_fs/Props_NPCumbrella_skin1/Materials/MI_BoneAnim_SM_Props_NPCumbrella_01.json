@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "BonePositionTexture": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BonePosition.T_Props_NPCumbrella_skin1_BonePosition",
+    "T_Props_NPCumbrella_skin1_BonePosition": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BonePosition.T_Props_NPCumbrella_skin1_BonePosition",
+    "BoneRotationTexture": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BoneRotation.T_Props_NPCumbrella_skin1_BoneRotation",
+    "T_Props_NPCumbrella_skin1_BoneRotation": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BoneRotation.T_Props_NPCumbrella_skin1_BoneRotation",
+    "BoneWeightsTexture": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BoneWeight.T_Props_NPCumbrella_skin1_BoneWeight",
+    "T_Props_NPCumbrella_skin1_BoneWeight": "HT/Content/Characters/Npc/NPC_Item/SM_Props_NPCumbrella/Mass_fs/Props_NPCumbrella_skin1/Textures/T_Props_NPCumbrella_skin1_BoneWeight.T_Props_NPCumbrella_skin1_BoneWeight"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "MinBBox": {
+        "R": -61.251488,
+        "G": -45.74319,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "SizeBBox": {
+        "R": 113.92077,
+        "G": 120.82152,
+        "B": 109.33398,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "NumBones": 26.0,
+      "RowsPerFrame": 1.0,
+      "BoneWeightsRowsPerFrame": 1.0,
+      "StartFrame": 0.0,
+      "EndFrame": 120.0,
+      "NumFrames": 171.0,
+      "SampleRate": 30.0
+    },
+    "Switches": {
+      "UseBoneAnimation": true,
+      "Animate": true,
+      "UseFourInfluences": true,
+      "UseTwoInfluences": false,
+      "UseUV0": false,
+      "UseUV1": true,
+      "UseUV2": false,
+      "UseUV3": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

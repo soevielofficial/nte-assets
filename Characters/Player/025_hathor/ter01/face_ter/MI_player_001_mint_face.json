@@ -1,0 +1,85 @@
+{
+  "Textures": {
+    "FaceLightMask": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/result.result",
+    "result": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/result.result",
+    "PM_Diffuse": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/player_025_hathor_face_d.player_025_hathor_face_d",
+    "BaseColor": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/player_025_hathor_face_d.player_025_hathor_face_d",
+    "LightMap": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/T_player_025_hathor_face_m.T_player_025_hathor_face_m",
+    "T_player_025_hathor_face_m": "HT/Content/Characters/Player/025_hathor/ter01/face_ter/T_player_025_hathor_face_m.T_player_025_hathor_face_m",
+    "RampAltas": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo",
+    "T_mismo": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "69322E"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.1,
+      "SmoothStepMin": 0.0,
+      "CharaterMipBias": -4.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "RampID1": 2.0,
+      "RampID4": 22.0,
+      "RampID6": 1.0,
+      "SpecIntensity": 0.84,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "ID0_UseModifyColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/003_sagiri/outline/cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

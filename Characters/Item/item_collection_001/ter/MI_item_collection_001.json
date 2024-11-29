@@ -1,0 +1,126 @@
+{
+  "Textures": {
+    "PM_Emissive": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_e.item_collection_001_e",
+    "EmissiveTex": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_e.item_collection_001_e",
+    "PM_Diffuse": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_id.item_collection_001_id",
+    "BaseColor": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_d.item_collection_001_d",
+    "ID_Tex": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_id.item_collection_001_id",
+    "LightMap": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_m.item_collection_001_m",
+    "item_collection_001_m": "HT/Content/Characters/Item/item_collection_001/ter/item_collection_001_m.item_collection_001_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "Matcap05": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/Matcap05.Matcap05",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tint_Day": {
+        "R": 0.03125,
+        "G": 0.004234,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "310D00"
+      },
+      "Tint_Night": {
+        "R": 0.035822,
+        "G": 0.030807,
+        "B": 0.041667,
+        "A": 1.0,
+        "Hex": "353139"
+      },
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HitColorFresnel": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      },
+      "HitDirection": {
+        "R": 1.564607,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF0000"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "RampBackLitHSVAlpha": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 0.151042,
+        "G": 0.022814,
+        "B": 0.038232,
+        "A": 1.0,
+        "Hex": "6C2937"
+      }
+    },
+    "Scalars": {
+      "SunRiseTime": 5.0,
+      "SunSetsTime": 18.0,
+      "FixExposure": 0.8608,
+      "ShadowOffsetRange": 1.2,
+      "Matcap2Min": 0.729238,
+      "Matcap2Max": 3.895831,
+      "Matcap2Int": 0.397891,
+      "LightdirZMul": 0.330001,
+      "SpecIntensity": 3.0,
+      "SpecMetalPow": 6.0,
+      "SpecMetalRange": 0.02,
+      "SpecPow": 2.0,
+      "SpecSmooth": 0.02,
+      "SpecSpeedX": 0.508168,
+      "SpecSpeedY": 0.797248,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "NormalTilling": 1.0,
+      "OpacityMaskVal": 0.872,
+      "EmissiveIntensity": 100.0,
+      "GlitchEmissiveIntensity": 35.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseEmissiveColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'collection_001_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Item/item_collection_001/collection_001_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

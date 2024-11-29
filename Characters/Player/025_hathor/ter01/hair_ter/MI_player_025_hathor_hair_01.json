@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/025_hathor/ter01/hair_ter/player_025_hathor_hair1_d.player_025_hathor_hair1_d",
+    "BaseColor": "HT/Content/Characters/Player/025_hathor/ter01/hair_ter/player_025_hathor_hair1_d.player_025_hathor_hair1_d",
+    "LightMap": "HT/Content/Characters/Player/025_hathor/ter01/hair_ter/player_025_hathor_hair1_m.player_025_hathor_hair1_m",
+    "player_025_hathor_hair1_m": "HT/Content/Characters/Player/025_hathor/ter01/hair_ter/player_025_hathor_hair1_m.player_025_hathor_hair1_m",
+    "RampAltas": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo",
+    "T_mismo": "HT/Content/Characters/Player/025_hathor/ter01/cover/T_mismo.T_mismo"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.4,
+        "G": 1.4,
+        "B": 1.4,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor2": {
+        "R": 0.65009,
+        "G": 0.65797,
+        "B": 0.744792,
+        "A": 1.0,
+        "Hex": "D3D4E0"
+      }
+    },
+    "Scalars": {
+      "CharaterMipBias": -4.0,
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.684799,
+      "BlendDistance": 0.603997,
+      "ShadowID": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'hair'",
+        "ObjectPath": "HT/Content/Characters/Player/003_sagiri_1/ter/outline/hair.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

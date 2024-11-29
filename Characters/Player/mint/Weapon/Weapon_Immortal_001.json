@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_Tiles006_2": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Tiles006_2.T_Tiles006_2",
+    "Weapon_Immortal_001_D": "HT/Content/Characters/Player/mint/Weapon/Weapon_Immortal_001_D.Weapon_Immortal_001_D",
+    "Weapon_Immortal_001_N": "HT/Content/Characters/Player/mint/Weapon/Weapon_Immortal_001_N.Weapon_Immortal_001_N",
+    "PM_Diffuse": "HT/Content/Characters/Player/mint/Weapon/Weapon_Immortal_001_D.Weapon_Immortal_001_D",
+    "PM_Normals": "HT/Content/Characters/Player/mint/Weapon/Weapon_Immortal_001_N.Weapon_Immortal_001_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithNanite": true,
+      "StateId": "B9DA950A-49FF874E-5FDAC7B6-AEC73570",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

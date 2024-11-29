@@ -1,0 +1,72 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_057_mlf/ter/T_NPC_Sub_057_head_mlf_D.T_NPC_Sub_057_head_mlf_D",
+    "BaseColor": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_057_mlf/ter/T_NPC_Sub_057_head_mlf_D.T_NPC_Sub_057_head_mlf_D",
+    "LightMap": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_057_mlf/ter/T_NPC_Sub_057_head_mlf_M.T_NPC_Sub_057_head_mlf_M",
+    "T_NPC_Sub_057_head_mlf_M": "HT/Content/Characters/Npc/NPC_Sub/NPC_Sub_057_mlf/ter/T_NPC_Sub_057_head_mlf_M.T_NPC_Sub_057_head_mlf_M",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_Ramp_sub_mlf.NPC_Ramp_sub_mlf",
+    "NPC_Ramp_sub_mlf": "HT/Content/CoreMaterials/Character/DefaultTextures/npc_Ramp/NPC_Ramp_sub_mlf.NPC_Ramp_sub_mlf"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.2,
+      "SmoothStepMin": 0.0,
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 2.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 2.0,
+      "RampID4": 0.0,
+      "RampID6": 0.0,
+      "SpecSize": 0.0,
+      "SpecIntensity": 3.0,
+      "SpecPow": 3.0,
+      "SpecSmooth": 0.3,
+      "SkinShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightmapForFaceLightMask": true,
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

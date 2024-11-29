@@ -1,0 +1,98 @@
+{
+  "Textures": {
+    "PM_Emissive": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_e.Item_OracleStone_crow_e",
+    "EmissiveTex": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_e.Item_OracleStone_crow_e",
+    "PM_Diffuse": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_d.Item_OracleStone_crow_d",
+    "BaseColor": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_d.Item_OracleStone_crow_d",
+    "CharaterToneLut": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "Character_TonemapAtlas": "HT/Content/CoreMaterials/Character/ToonMaterial/Functions/Character_TonemapAtlas.Character_TonemapAtlas",
+    "LightMap": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_m.Item_OracleStone_crow_m",
+    "Item_OracleStone_crow_m": "HT/Content/Characters/Item/SM_OracleStone_crow/ter/Item_OracleStone_crow_m.Item_OracleStone_crow_m",
+    "RampAltas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas",
+    "T_Character_RampAtlas": "HT/Content/CoreMaterials/Character/DefaultTextures/T_Character_RampAtlas.T_Character_RampAtlas"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 0.650298,
+        "G": 0.057824,
+        "B": 0.057824,
+        "A": 39.866108,
+        "Hex": "D34444"
+      },
+      "BaseColorMul": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "FixExposure": 50.0,
+      "OffsetStrength": 1.0,
+      "ShadowOffsetRange": 0.5,
+      "RampID1": 0.0,
+      "RampID4": 0.0,
+      "RampID6": 3.0,
+      "LightdirZMul": 0.5,
+      "SpecIntensity": 0.0,
+      "SpecMetalPow": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseEmissiveColor": true
+    },
+    "Properties": {
+      "NaniteOverrideMaterial": {
+        "OverrideMaterialRef": {
+          "AssetPathName": "None",
+          "SubPathString": null
+        },
+        "bEnableOverride": false,
+        "OverrideMaterial": null
+      },
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'common_outlinne'",
+        "ObjectPath": "HT/Content/Characters/Player/Common_ter/common_outlinne/common_outlinne.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

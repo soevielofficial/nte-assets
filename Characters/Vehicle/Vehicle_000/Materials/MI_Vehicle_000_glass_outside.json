@@ -1,0 +1,56 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_D.T_Vehicle_000_glass_outside_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_D.T_Vehicle_000_glass_outside_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_N.T_Vehicle_000_glass_outside_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_N.T_Vehicle_000_glass_outside_N",
+    "PM_Emissive": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_E.T_Vehicle_000_glass_outside_E",
+    "EmissiveTexture": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_glass_outside_E.T_Vehicle_000_glass_outside_E"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "EmissiveColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Opacity": 1.0,
+      "Roughness": 0.126,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Glass'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_Glass.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

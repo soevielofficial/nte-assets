@@ -1,0 +1,170 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/T_player_014_kuhara_body2_id.T_player_014_kuhara_body2_id",
+    "BaseColor": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/T_player_014_kuhara_body2_d.T_player_014_kuhara_body2_d",
+    "ID_Tex": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/T_player_014_kuhara_body2_id.T_player_014_kuhara_body2_id",
+    "LightMap": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/T_player_014_kuhara_body2_m.T_player_014_kuhara_body2_m",
+    "T_player_014_kuhara_body2_m": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/T_player_014_kuhara_body2_m.T_player_014_kuhara_body2_m",
+    "RampAltas": "HT/Content/Characters/Player/014_kuhara_new/ter/curve/T_kuhara_2.T_kuhara_2",
+    "T_kuhara_2": "HT/Content/Characters/Player/014_kuhara_new/ter/curve/T_kuhara_2.T_kuhara_2",
+    "Matcap1": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "MatCap065_2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "SkilMask": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/player_014_kuhara_mask.player_014_kuhara_mask",
+    "player_014_kuhara_mask": "HT/Content/Characters/Player/014_kuhara_new/ter/cloth_ter/player_014_kuhara_mask.player_014_kuhara_mask",
+    "Matcap2": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m5.m5",
+    "m5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/m5.m5",
+    "Matcap3": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap5": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "Matcap6": "HT/Content/CoreMaterials/Character/ToonMaterial/Instances/MATCAP/MatCap065_2.MatCap065_2",
+    "PM_SpecularMasks": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NomralMap": "HT/Content/TestMaps/Character/HottaMaterials/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.884414,
+        "G": -1.684026,
+        "B": 0.495544,
+        "A": 0.0,
+        "Hex": "F200BB"
+      },
+      "SkinBlendColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ID0_BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "SkilColor1": {
+        "R": 0.213542,
+        "G": 0.213542,
+        "B": 0.213542,
+        "A": 1.0,
+        "Hex": "7F7F7F"
+      },
+      "SkilColor2": {
+        "R": 0.609375,
+        "G": 0.606201,
+        "B": 0.606201,
+        "A": 1.0,
+        "Hex": "CDCDCD"
+      },
+      "SkilHighLightColor": {
+        "R": 0.390625,
+        "G": 0.390625,
+        "B": 0.390625,
+        "A": 1.0,
+        "Hex": "A8A8A8"
+      },
+      "SpecColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "RimLight": 0.4,
+      "ShadowOffsetRange": 1.2,
+      "Matcap1Min": 1.42234,
+      "Matcap1Max": 1.0,
+      "Matcap1Int": -0.561722,
+      "RampID1": 0.0,
+      "RampID1_Silk": 4.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "SilkColorMin": 0.3,
+      "SilkColoeMax": 1.2,
+      "SilkColorPower": 3.0,
+      "SkilHighLightMin": 0.0,
+      "SkilHighLightMax": 0.5,
+      "SkilHighLightInt": 0.3,
+      "HighLightNoiseScale": 10.0,
+      "SkilMaskBias": 0.0,
+      "SkilMaskHardness": -0.5,
+      "Matcap2Min": 0.8,
+      "Matcap2Max": 1.5,
+      "Matcap2Int": 0.5,
+      "RampID2": 6.0,
+      "Matcap3Min": 0.8,
+      "Matcap3Max": 1.5,
+      "Matcap3Int": 0.5,
+      "RampID3": 8.0,
+      "Matcap4Min": 1.0,
+      "Matcap4Max": 1.2,
+      "Matcap4Int": 5.0,
+      "RampID4": 10.0,
+      "Matcap5Min": 1.0,
+      "Matcap5Max": 10.128026,
+      "Matcap5Int": 2.0,
+      "RampID5": 12.0,
+      "Matcap6Min": 2.264323,
+      "Matcap6Max": 7.0,
+      "Matcap6Int": 0.5,
+      "RampID6": 14.0,
+      "BaseColorInverseColor": 0.0,
+      "LightdirZMul": 0.5,
+      "SpecIntensity": 3.0,
+      "SpecMetalPow": 6.0,
+      "SpecMetalRange": 0.35,
+      "SpecPow": 10.0,
+      "SpecSmooth": 0.05,
+      "LightNormalStrength": 1.0,
+      "MatcapNomralStrength": 1.0,
+      "ShadowID": 0.0,
+      "SkinShadowID": 0.0,
+      "ShadeOffset": 0.5,
+      "ShadeSmooth": 0.35,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true,
+      "BlendSkinFresnel": true,
+      "BlendSilk": true,
+      "ID0_UseModifyColor": true,
+      "UseSilkHighLight": true,
+      "UseLocalReflection": true,
+      "UseSilkMask": true,
+      "UseMatcap2": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'014_kuhara_cloth'",
+        "ObjectPath": "HT/Content/Characters/Player/014_kuhara_new/ter/outline/014_kuhara_cloth.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

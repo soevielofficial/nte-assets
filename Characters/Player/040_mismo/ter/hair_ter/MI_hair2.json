@@ -1,0 +1,93 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/040_mismo/ter/hair_ter/T_player_040_mismo_hair_02_d.T_player_040_mismo_hair_02_d",
+    "BaseColor": "HT/Content/Characters/Player/040_mismo/ter/hair_ter/T_player_040_mismo_hair_02_d.T_player_040_mismo_hair_02_d",
+    "LightMap": "HT/Content/Characters/Player/040_mismo/ter/hair_ter/T_player_040_mismo_hair_02_m.T_player_040_mismo_hair_02_m",
+    "T_player_040_mismo_hair_02_m": "HT/Content/Characters/Player/040_mismo/ter/hair_ter/T_player_040_mismo_hair_02_m.T_player_040_mismo_hair_02_m",
+    "RampAltas": "HT/Content/Characters/Player/040_mismo/ter/cover/T_mismo.T_mismo",
+    "T_mismo": "HT/Content/Characters/Player/040_mismo/ter/cover/T_mismo.T_mismo",
+    "PM_SpecularMasks": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL",
+    "NomralMap": "HT/Content/CoreMaterials/Character/DefaultTextures/DefaultNormal1x1_XL.DefaultNormal1x1_XL"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor1": {
+        "R": 0.703125,
+        "G": 0.992127,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "DBFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "RimDirectionHeight": 190.0,
+      "RimLight": 0.15,
+      "ShadowOffsetRange": 0.45,
+      "SpecIntensity": 0.8,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.5,
+      "SpecSmooth": 0.02,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.45,
+      "LightNormalStrength": 0.5,
+      "MatcapNomralStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'player_040_hair'",
+        "ObjectPath": "HT/Content/Characters/Player/040_mismo/ter/outline/player_040_hair.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

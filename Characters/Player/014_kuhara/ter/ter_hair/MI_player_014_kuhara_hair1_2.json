@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/014_kuhara/ter/ter_hair/T_player_014_kuhara_hair_02_d.T_player_014_kuhara_hair_02_d",
+    "BaseColor": "HT/Content/Characters/Player/014_kuhara/ter/ter_hair/T_player_014_kuhara_hair_02_d.T_player_014_kuhara_hair_02_d",
+    "LightMap": "HT/Content/Characters/Player/014_kuhara/ter/ter_hair/T_player_014_kuhara_hair_02_m.T_player_014_kuhara_hair_02_m",
+    "T_player_014_kuhara_hair_02_m": "HT/Content/Characters/Player/014_kuhara/ter/ter_hair/T_player_014_kuhara_hair_02_m.T_player_014_kuhara_hair_02_m"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.04,
+        "G": -0.304827,
+        "B": -0.592,
+        "A": 1.0,
+        "Hex": "380000"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ToonID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.0,
+      "BlendCenter": 0.0,
+      "BlendDistance": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'hair'",
+        "ObjectPath": "HT/Content/Characters/Player/014_kuhara/ter/outline/hair.0"
+      },
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

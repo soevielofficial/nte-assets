@@ -1,0 +1,93 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_D.T_Vehicle_000_Light_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_D.T_Vehicle_000_Light_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_N.T_Vehicle_000_Light_N",
+    "Normal": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_N.T_Vehicle_000_Light_N",
+    "PM_SpecularMasks": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_MRA.T_Vehicle_000_Light_MRA",
+    "MRA": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_MRA.T_Vehicle_000_Light_MRA",
+    "PM_Emissive": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_E.T_Vehicle_000_Light_E",
+    "Emissive": "HT/Content/Characters/Vehicle/Vehicle_000/Materials/T_Vehicle_000_Light_E.T_Vehicle_000_Light_E"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissiveColor": {
+        "R": 8.0,
+        "G": 8.0,
+        "B": 8.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "LeftLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "MainLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "RightLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "BrakeLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "BackLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "ReverseLight": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "AdjustBaseColor": false,
+      "UseNormalMap": true,
+      "UseEmissive": true,
+      "UseCarLight": false
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_HollowMetal'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_HollowMetal.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": true,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

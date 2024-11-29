@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Player/004_lacrimosa/face_ter/T_player_004_lacrimosa_eye_d.T_player_004_lacrimosa_eye_d",
+    "BaseColor": "HT/Content/Characters/Player/004_lacrimosa/face_ter/T_player_004_lacrimosa_eye_d.T_player_004_lacrimosa_eye_d",
+    "LightMap": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "T_sRGB_White": "HT/Content/CoreMaterials/Character/DefaultTextures/T_sRGB_White.T_sRGB_White",
+    "RampAltas": "HT/Content/Characters/Player/004_lacrimosa/Curve_new/T_lacrimosa.T_lacrimosa",
+    "T_lacrimosa": "HT/Content/Characters/Player/004_lacrimosa/Curve_new/T_lacrimosa.T_lacrimosa"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFF"
+      },
+      "HairShadow_WorldOffset": {
+        "R": 0.0,
+        "G": -0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "000000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "Opacity": 1.0,
+      "RampID": 18.0,
+      "ShadowOffsetRange": 1.0,
+      "SpecIntensity": 0.0,
+      "ShadowID": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNightRamp": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "bOverrideOutlineOverlayMaterial": true,
+      "OutlineOverlayMaterial": {
+        "ObjectName": "MaterialInstanceConstant'MI_player_001_mint_OutLine_hair'",
+        "ObjectPath": "HT/Content/Characters/Player/mint/player_001_mint/hair_ter/001_outline/MI_player_001_mint_OutLine_hair.0"
+      },
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_Toon",
+        "OpacityMaskClipValue": 0.3333,
+        "EmbroideryStencilOp": "EMaterialEmbroideryStencilOp::MESO_Set"
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

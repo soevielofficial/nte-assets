@@ -1,0 +1,85 @@
+{
+  "Textures": {
+    "PM_Diffuse": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/Vehicle_002_Refitting_break_D.Vehicle_002_Refitting_break_D",
+    "BaseColor": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Refitting_01_D.T_Vehicle_002_Refitting_01_D",
+    "PM_Normals": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/Vehicle_002_Refitting_break_N.Vehicle_002_Refitting_break_N",
+    "NormalMap": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Refitting_01_N.T_Vehicle_002_Refitting_01_N",
+    "ColorIDTexture": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Colorchart.T_Vehicle_002_Colorchart",
+    "T_Vehicle_002_Colorchart": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Colorchart.T_Vehicle_002_Colorchart",
+    "Decal": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Decal_00_D.T_Vehicle_002_Decal_00_D",
+    "T_Vehicle_002_Decal_00_D": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Decal_00_D.T_Vehicle_002_Decal_00_D",
+    "PM_SpecularMasks": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Refitting_01_MRA.T_Vehicle_002_Refitting_01_MRA",
+    "MRA": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/T_Vehicle_002_Refitting_01_MRA.T_Vehicle_002_Refitting_01_MRA",
+    "Reflection": "HT/Content/Environment/Cubemaps/OldCubemap/sky10.sky10",
+    "sky10": "HT/Content/Environment/Cubemaps/OldCubemap/sky10.sky10",
+    "MatCap": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/MatCap_001.MatCap_001",
+    "MatCap_001": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/MatCap_001.MatCap_001",
+    "ScratchBaseColor": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/Vehicle_002_Refitting_break_D.Vehicle_002_Refitting_break_D",
+    "ScratchNormal": "HT/Content/Characters/Vehicle/Vehicle_002/Materials/Vehicle_002_Refitting_break_N.Vehicle_002_Refitting_break_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 4,
+    "Colors": {
+      "Flake Color Alpha": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      }
+    },
+    "Scalars": {
+      "Clear Coat Top Roughness": 0.6,
+      "NormalIntensity": 1.0,
+      "ExponentIn": 0.0,
+      "Sky Reflection Intensity Day": 0.02,
+      "Sky Reflection Intensity Night": 0.02,
+      "SunRiseTime": 7.0,
+      "SunSetsTime": 19.0,
+      "TOD Max Brightness": 0.2,
+      "TOD Min Brightness": 0.05,
+      "Flake Color Power": 0.0,
+      "Flake Color Variation": 0.0,
+      "Sparkle Colors Scale": 0.0,
+      "Final Flake Brightness": 0.0,
+      "Flake Distribution": 0.0,
+      "Max Bottom Roughness": 1.0,
+      "Min Bottom Roughness": 0.0,
+      "1st Flake Intensity": 2.0,
+      "Flake Normal Scale": 16.0,
+      "Flake Normal Strength": 0.0,
+      "Flake Scale": 4.0,
+      "MatcapMetallic": 0.6,
+      "MatCapPower": 0.7,
+      "MatCapScale": 0.8,
+      "Car Paint Metallic": 0.5,
+      "ScratchStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseDecal": true,
+      "UseMatCap": true,
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_HollowMetal'",
+        "ObjectPath": "HT/Content/CoreMaterials/Physics/PM_HollowMetal.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "EBlendMode::BLEND_Masked",
+        "ShadingModel": "EMaterialShadingModel::MSM_ClearCoat",
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": true,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
